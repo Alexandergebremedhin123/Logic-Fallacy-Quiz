@@ -1,0 +1,2462 @@
+[
+  {
+    "id": 1,
+    "question": "Why worry about climate change when there are so many people still unemployed?",
+    "choices": [
+      "Red Herring",
+      "Slippery Slope",
+      "Appeal to Authority",
+      "Hasty Generalization"
+    ],
+    "answer": "Red Herring"
+  },
+  {
+    "id": 2,
+    "question": "Ever since the mayor took office, crime rates increased.she must be responsible.",
+    "choices": [
+      "Straw Man",
+      "Hasty Generalization",
+      "Appeal to Authority",
+      "Post Hoc"
+    ],
+    "answer": "Post Hoc"
+  },
+  {
+    "id": 3,
+    "question": "Everyone at school is using this app, so it must be the best.",
+    "choices": [
+      "Bandwagon",
+      "False Dilemma",
+      "Circular Reasoning",
+      "Appeal to Emotion"
+    ],
+    "answer": "Bandwagon"
+  },
+  {
+    "id": 4,
+    "question": "If we allow students to choose their own classes, soon they'll stop attending school altogether.",
+    "choices": [
+      "Bandwagon",
+      "Circular Reasoning",
+      "Slippery Slope",
+      "Begging the Question"
+    ],
+    "answer": "Slippery Slope"
+  },
+  {
+    "id": 5,
+    "question": "This supplement must be effective.it's endorsed by a famous actor.",
+    "choices": [
+      "Hasty Generalization",
+      "Appeal to Authority",
+      "Bandwagon",
+      "False Dilemma"
+    ],
+    "answer": "Appeal to Authority"
+  },
+  {
+    "id": 6,
+    "question": "Mark says we should have fewer homework assignments, and Lisa replies that Mark just wants kids to stop learning entirely.",
+    "choices": [
+      "Straw Man",
+      "Circular Reasoning",
+      "Bandwagon",
+      "Appeal to Emotion"
+    ],
+    "answer": "Straw Man"
+  },
+  {
+    "id": 7,
+    "question": "You either support the new policy or you're against progress.",
+    "choices": [
+      "Circular Reasoning",
+      "Appeal to Authority",
+      "Begging the Question",
+      "False Dilemma"
+    ],
+    "answer": "False Dilemma"
+  },
+  {
+    "id": 8,
+    "question": "I met two rude people from that city; everyone there must be unfriendly.",
+    "choices": [
+      "Hasty Generalization",
+      "Circular Reasoning",
+      "Ad Hominem",
+      "Post Hoc"
+    ],
+    "answer": "Hasty Generalization"
+  },
+  {
+    "id": 9,
+    "question": "Why worry about climate change when there are so many people still unemployed?",
+    "choices": [
+      "Red Herring",
+      "Begging the Question",
+      "Appeal to Emotion",
+      "Circular Reasoning"
+    ],
+    "answer": "Red Herring"
+  },
+  {
+    "id": 10,
+    "question": "Reading is important because it's essential to learn how to read.",
+    "choices": [
+      "Begging the Question",
+      "Post Hoc",
+      "Slippery Slope",
+      "Circular Reasoning"
+    ],
+    "answer": "Begging the Question"
+  },
+  {
+    "id": 11,
+    "question": "If you care about your children, you will support this bill without question.",
+    "choices": [
+      "Circular Reasoning",
+      "Ad Hominem",
+      "False Dilemma",
+      "Appeal to Emotion"
+    ],
+    "answer": "Appeal to Emotion"
+  },
+  {
+    "id": 12,
+    "question": "Reading is important because it's essential to learn how to read.",
+    "choices": [
+      "Bandwagon",
+      "Ad Hominem",
+      "Begging the Question",
+      "Circular Reasoning"
+    ],
+    "answer": "Begging the Question"
+  },
+  {
+    "id": 13,
+    "question": "I met two rude people from that city; everyone there must be unfriendly.",
+    "choices": [
+      "Post Hoc",
+      "Hasty Generalization",
+      "Bandwagon",
+      "Circular Reasoning"
+    ],
+    "answer": "Hasty Generalization"
+  },
+  {
+    "id": 14,
+    "question": "If you care about your children, you will support this bill without question.",
+    "choices": [
+      "Red Herring",
+      "Appeal to Emotion",
+      "Bandwagon",
+      "Hasty Generalization"
+    ],
+    "answer": "Appeal to Emotion"
+  },
+  {
+    "id": 15,
+    "question": "If you care about your children, you will support this bill without question.",
+    "choices": [
+      "Slippery Slope",
+      "Appeal to Emotion",
+      "False Dilemma",
+      "Straw Man"
+    ],
+    "answer": "Appeal to Emotion"
+  },
+  {
+    "id": 16,
+    "question": "Everyone at school is using this app, so it must be the best.",
+    "choices": [
+      "Red Herring",
+      "False Dilemma",
+      "Bandwagon",
+      "Straw Man"
+    ],
+    "answer": "Bandwagon"
+  },
+  {
+    "id": 17,
+    "question": "Mark says we should have fewer homework assignments, and Lisa replies that Mark just wants kids to stop learning entirely.",
+    "choices": [
+      "Bandwagon",
+      "Straw Man",
+      "Begging the Question",
+      "Circular Reasoning"
+    ],
+    "answer": "Straw Man"
+  },
+  {
+    "id": 18,
+    "question": "You either support the new policy or you're against progress.",
+    "choices": [
+      "Straw Man",
+      "False Dilemma",
+      "Appeal to Authority",
+      "Bandwagon"
+    ],
+    "answer": "False Dilemma"
+  },
+  {
+    "id": 19,
+    "question": "If we allow students to choose their own classes, soon they'll stop attending school altogether.",
+    "choices": [
+      "Appeal to Emotion",
+      "Ad Hominem",
+      "Red Herring",
+      "Slippery Slope"
+    ],
+    "answer": "Slippery Slope"
+  },
+  {
+    "id": 20,
+    "question": "Why should we listen to Jenny's opinion on politics? She failed math class in high school.",
+    "choices": [
+      "Ad Hominem",
+      "Circular Reasoning",
+      "Appeal to Emotion",
+      "Bandwagon"
+    ],
+    "answer": "Ad Hominem"
+  },
+  {
+    "id": 21,
+    "question": "Mark says we should have fewer homework assignments, and Lisa replies that Mark just wants kids to stop learning entirely.",
+    "choices": [
+      "Appeal to Authority",
+      "Straw Man",
+      "Hasty Generalization",
+      "Slippery Slope"
+    ],
+    "answer": "Straw Man"
+  },
+  {
+    "id": 22,
+    "question": "Why worry about climate change when there are so many people still unemployed?",
+    "choices": [
+      "Ad Hominem",
+      "Red Herring",
+      "Bandwagon",
+      "Begging the Question"
+    ],
+    "answer": "Red Herring"
+  },
+  {
+    "id": 23,
+    "question": "Ever since the mayor took office, crime rates increased.she must be responsible.",
+    "choices": [
+      "Appeal to Authority",
+      "Red Herring",
+      "Post Hoc",
+      "Appeal to Emotion"
+    ],
+    "answer": "Post Hoc"
+  },
+  {
+    "id": 24,
+    "question": "Ever since the mayor took office, crime rates increased.she must be responsible.",
+    "choices": [
+      "Appeal to Authority",
+      "Red Herring",
+      "Ad Hominem",
+      "Post Hoc"
+    ],
+    "answer": "Post Hoc"
+  },
+  {
+    "id": 25,
+    "question": "This supplement must be effective.it's endorsed by a famous actor.",
+    "choices": [
+      "Appeal to Authority",
+      "Begging the Question",
+      "Red Herring",
+      "Slippery Slope"
+    ],
+    "answer": "Appeal to Authority"
+  },
+  {
+    "id": 26,
+    "question": "This supplement must be effective.it's endorsed by a famous actor.",
+    "choices": [
+      "Straw Man",
+      "Red Herring",
+      "Appeal to Authority",
+      "Bandwagon"
+    ],
+    "answer": "Appeal to Authority"
+  },
+  {
+    "id": 27,
+    "question": "I met two rude people from that city; everyone there must be unfriendly.",
+    "choices": [
+      "Slippery Slope",
+      "Circular Reasoning",
+      "Hasty Generalization",
+      "Ad Hominem"
+    ],
+    "answer": "Hasty Generalization"
+  },
+  {
+    "id": 28,
+    "question": "Reading is important because it's essential to learn how to read.",
+    "choices": [
+      "Begging the Question",
+      "Straw Man",
+      "Slippery Slope",
+      "Circular Reasoning"
+    ],
+    "answer": "Begging the Question"
+  },
+  {
+    "id": 29,
+    "question": "Mark says we should have fewer homework assignments, and Lisa replies that Mark just wants kids to stop learning entirely.",
+    "choices": [
+      "Slippery Slope",
+      "Appeal to Emotion",
+      "Straw Man",
+      "Bandwagon"
+    ],
+    "answer": "Straw Man"
+  },
+  {
+    "id": 30,
+    "question": "I met two rude people from that city; everyone there must be unfriendly.",
+    "choices": [
+      "Red Herring",
+      "Bandwagon",
+      "Slippery Slope",
+      "Hasty Generalization"
+    ],
+    "answer": "Hasty Generalization"
+  },
+  {
+    "id": 31,
+    "question": "I met two rude people from that city; everyone there must be unfriendly.",
+    "choices": [
+      "False Dilemma",
+      "Hasty Generalization",
+      "Slippery Slope",
+      "Begging the Question"
+    ],
+    "answer": "Hasty Generalization"
+  },
+  {
+    "id": 32,
+    "question": "Everyone at school is using this app, so it must be the best.",
+    "choices": [
+      "Bandwagon",
+      "False Dilemma",
+      "Begging the Question",
+      "Red Herring"
+    ],
+    "answer": "Bandwagon"
+  },
+  {
+    "id": 33,
+    "question": "Everyone at school is using this app, so it must be the best.",
+    "choices": [
+      "Appeal to Emotion",
+      "Hasty Generalization",
+      "Bandwagon",
+      "False Dilemma"
+    ],
+    "answer": "Bandwagon"
+  },
+  {
+    "id": 34,
+    "question": "Reading is important because it's essential to learn how to read.",
+    "choices": [
+      "Bandwagon",
+      "Begging the Question",
+      "Slippery Slope",
+      "Appeal to Emotion"
+    ],
+    "answer": "Begging the Question"
+  },
+  {
+    "id": 35,
+    "question": "Mark says we should have fewer homework assignments, and Lisa replies that Mark just wants kids to stop learning entirely.",
+    "choices": [
+      "Bandwagon",
+      "Hasty Generalization",
+      "Straw Man",
+      "Appeal to Authority"
+    ],
+    "answer": "Straw Man"
+  },
+  {
+    "id": 36,
+    "question": "Why worry about climate change when there are so many people still unemployed?",
+    "choices": [
+      "Red Herring",
+      "Ad Hominem",
+      "Slippery Slope",
+      "Circular Reasoning"
+    ],
+    "answer": "Red Herring"
+  },
+  {
+    "id": 37,
+    "question": "Ever since the mayor took office, crime rates increased.she must be responsible.",
+    "choices": [
+      "Post Hoc",
+      "Appeal to Emotion",
+      "False Dilemma",
+      "Appeal to Authority"
+    ],
+    "answer": "Post Hoc"
+  },
+  {
+    "id": 38,
+    "question": "If you care about your children, you will support this bill without question.",
+    "choices": [
+      "Begging the Question",
+      "Slippery Slope",
+      "Ad Hominem",
+      "Appeal to Emotion"
+    ],
+    "answer": "Appeal to Emotion"
+  },
+  {
+    "id": 39,
+    "question": "This supplement must be effective.it's endorsed by a famous actor.",
+    "choices": [
+      "Post Hoc",
+      "Bandwagon",
+      "Appeal to Emotion",
+      "Appeal to Authority"
+    ],
+    "answer": "Appeal to Authority"
+  },
+  {
+    "id": 40,
+    "question": "If we allow students to choose their own classes, soon they'll stop attending school altogether.",
+    "choices": [
+      "Ad Hominem",
+      "Slippery Slope",
+      "Bandwagon",
+      "Appeal to Authority"
+    ],
+    "answer": "Slippery Slope"
+  },
+  {
+    "id": 41,
+    "question": "This supplement must be effective.it's endorsed by a famous actor.",
+    "choices": [
+      "Circular Reasoning",
+      "Appeal to Authority",
+      "Appeal to Emotion",
+      "Ad Hominem"
+    ],
+    "answer": "Appeal to Authority"
+  },
+  {
+    "id": 42,
+    "question": "You either support the new policy or you're against progress.",
+    "choices": [
+      "Post Hoc",
+      "Begging the Question",
+      "Circular Reasoning",
+      "False Dilemma"
+    ],
+    "answer": "False Dilemma"
+  },
+  {
+    "id": 43,
+    "question": "Mark says we should have fewer homework assignments, and Lisa replies that Mark just wants kids to stop learning entirely.",
+    "choices": [
+      "False Dilemma",
+      "Ad Hominem",
+      "Straw Man",
+      "Bandwagon"
+    ],
+    "answer": "Straw Man"
+  },
+  {
+    "id": 44,
+    "question": "Ever since the mayor took office, crime rates increased.she must be responsible.",
+    "choices": [
+      "Appeal to Emotion",
+      "Hasty Generalization",
+      "Post Hoc",
+      "False Dilemma"
+    ],
+    "answer": "Post Hoc"
+  },
+  {
+    "id": 45,
+    "question": "If we allow students to choose their own classes, soon they'll stop attending school altogether.",
+    "choices": [
+      "Begging the Question",
+      "Red Herring",
+      "Bandwagon",
+      "Slippery Slope"
+    ],
+    "answer": "Slippery Slope"
+  },
+  {
+    "id": 46,
+    "question": "Reading is important because it's essential to learn how to read.",
+    "choices": [
+      "Begging the Question",
+      "Straw Man",
+      "Slippery Slope",
+      "Ad Hominem"
+    ],
+    "answer": "Begging the Question"
+  },
+  {
+    "id": 47,
+    "question": "Why should we listen to Jenny's opinion on politics? She failed math class in high school.",
+    "choices": [
+      "Post Hoc",
+      "Begging the Question",
+      "Ad Hominem",
+      "Circular Reasoning"
+    ],
+    "answer": "Ad Hominem"
+  },
+  {
+    "id": 48,
+    "question": "We should trust the mayor because she's the best leader, and she's the best leader because people trust her.",
+    "choices": [
+      "Circular Reasoning",
+      "False Dilemma",
+      "Slippery Slope",
+      "Red Herring"
+    ],
+    "answer": "Circular Reasoning"
+  },
+  {
+    "id": 49,
+    "question": "Why worry about climate change when there are so many people still unemployed?",
+    "choices": [
+      "Appeal to Emotion",
+      "Red Herring",
+      "Bandwagon",
+      "Circular Reasoning"
+    ],
+    "answer": "Red Herring"
+  },
+  {
+    "id": 50,
+    "question": "Everyone at school is using this app, so it must be the best.",
+    "choices": [
+      "Bandwagon",
+      "Circular Reasoning",
+      "Appeal to Authority",
+      "Slippery Slope"
+    ],
+    "answer": "Bandwagon"
+  },
+  {
+    "id": 51,
+    "question": "This supplement must be effective.it's endorsed by a famous actor.",
+    "choices": [
+      "Ad Hominem",
+      "Appeal to Emotion",
+      "False Dilemma",
+      "Appeal to Authority"
+    ],
+    "answer": "Appeal to Authority"
+  },
+  {
+    "id": 52,
+    "question": "Mark says we should have fewer homework assignments, and Lisa replies that Mark just wants kids to stop learning entirely.",
+    "choices": [
+      "Hasty Generalization",
+      "Straw Man",
+      "False Dilemma",
+      "Circular Reasoning"
+    ],
+    "answer": "Straw Man"
+  },
+  {
+    "id": 53,
+    "question": "This supplement must be effective.it's endorsed by a famous actor.",
+    "choices": [
+      "Slippery Slope",
+      "Red Herring",
+      "Appeal to Emotion",
+      "Appeal to Authority"
+    ],
+    "answer": "Appeal to Authority"
+  },
+  {
+    "id": 54,
+    "question": "Ever since the mayor took office, crime rates increased.she must be responsible.",
+    "choices": [
+      "Appeal to Authority",
+      "Post Hoc",
+      "Begging the Question",
+      "Straw Man"
+    ],
+    "answer": "Post Hoc"
+  },
+  {
+    "id": 55,
+    "question": "You either support the new policy or you're against progress.",
+    "choices": [
+      "Hasty Generalization",
+      "Begging the Question",
+      "Bandwagon",
+      "False Dilemma"
+    ],
+    "answer": "False Dilemma"
+  },
+  {
+    "id": 56,
+    "question": "If you care about your children, you will support this bill without question.",
+    "choices": [
+      "Bandwagon",
+      "Hasty Generalization",
+      "Appeal to Emotion",
+      "Slippery Slope"
+    ],
+    "answer": "Appeal to Emotion"
+  },
+  {
+    "id": 57,
+    "question": "I met two rude people from that city; everyone there must be unfriendly.",
+    "choices": [
+      "Slippery Slope",
+      "Hasty Generalization",
+      "False Dilemma",
+      "Bandwagon"
+    ],
+    "answer": "Hasty Generalization"
+  },
+  {
+    "id": 58,
+    "question": "If we allow students to choose their own classes, soon they'll stop attending school altogether.",
+    "choices": [
+      "Slippery Slope",
+      "Hasty Generalization",
+      "Straw Man",
+      "Appeal to Authority"
+    ],
+    "answer": "Slippery Slope"
+  },
+  {
+    "id": 59,
+    "question": "Why worry about climate change when there are so many people still unemployed?",
+    "choices": [
+      "Straw Man",
+      "Slippery Slope",
+      "Red Herring",
+      "False Dilemma"
+    ],
+    "answer": "Red Herring"
+  },
+  {
+    "id": 60,
+    "question": "Reading is important because it's essential to learn how to read.",
+    "choices": [
+      "Begging the Question",
+      "Appeal to Authority",
+      "Slippery Slope",
+      "Red Herring"
+    ],
+    "answer": "Begging the Question"
+  },
+  {
+    "id": 61,
+    "question": "If you care about your children, you will support this bill without question.",
+    "choices": [
+      "Bandwagon",
+      "Appeal to Authority",
+      "Straw Man",
+      "Appeal to Emotion"
+    ],
+    "answer": "Appeal to Emotion"
+  },
+  {
+    "id": 62,
+    "question": "Ever since the mayor took office, crime rates increased.she must be responsible.",
+    "choices": [
+      "Ad Hominem",
+      "Post Hoc",
+      "Circular Reasoning",
+      "Hasty Generalization"
+    ],
+    "answer": "Post Hoc"
+  },
+  {
+    "id": 63,
+    "question": "I met two rude people from that city; everyone there must be unfriendly.",
+    "choices": [
+      "Appeal to Authority",
+      "Ad Hominem",
+      "Bandwagon",
+      "Hasty Generalization"
+    ],
+    "answer": "Hasty Generalization"
+  },
+  {
+    "id": 64,
+    "question": "Everyone at school is using this app, so it must be the best.",
+    "choices": [
+      "False Dilemma",
+      "Appeal to Emotion",
+      "Ad Hominem",
+      "Bandwagon"
+    ],
+    "answer": "Bandwagon"
+  },
+  {
+    "id": 65,
+    "question": "We should trust the mayor because she's the best leader, and she's the best leader because people trust her.",
+    "choices": [
+      "Circular Reasoning",
+      "Post Hoc",
+      "Bandwagon",
+      "Red Herring"
+    ],
+    "answer": "Circular Reasoning"
+  },
+  {
+    "id": 66,
+    "question": "Mark says we should have fewer homework assignments, and Lisa replies that Mark just wants kids to stop learning entirely.",
+    "choices": [
+      "Appeal to Emotion",
+      "Bandwagon",
+      "Begging the Question",
+      "Straw Man"
+    ],
+    "answer": "Straw Man"
+  },
+  {
+    "id": 67,
+    "question": "We should trust the mayor because she's the best leader, and she's the best leader because people trust her.",
+    "choices": [
+      "Circular Reasoning",
+      "Straw Man",
+      "Bandwagon",
+      "Begging the Question"
+    ],
+    "answer": "Circular Reasoning"
+  },
+  {
+    "id": 68,
+    "question": "I met two rude people from that city; everyone there must be unfriendly.",
+    "choices": [
+      "Post Hoc",
+      "Hasty Generalization",
+      "Bandwagon",
+      "Red Herring"
+    ],
+    "answer": "Hasty Generalization"
+  },
+  {
+    "id": 69,
+    "question": "Why worry about climate change when there are so many people still unemployed?",
+    "choices": [
+      "Red Herring",
+      "Post Hoc",
+      "Appeal to Authority",
+      "Begging the Question"
+    ],
+    "answer": "Red Herring"
+  },
+  {
+    "id": 70,
+    "question": "This supplement must be effective.it's endorsed by a famous actor.",
+    "choices": [
+      "Appeal to Authority",
+      "Bandwagon",
+      "Hasty Generalization",
+      "Post Hoc"
+    ],
+    "answer": "Appeal to Authority"
+  },
+  {
+    "id": 71,
+    "question": "Why should we listen to Jenny's opinion on politics? She failed math class in high school.",
+    "choices": [
+      "Bandwagon",
+      "Ad Hominem",
+      "Circular Reasoning",
+      "Slippery Slope"
+    ],
+    "answer": "Ad Hominem"
+  },
+  {
+    "id": 72,
+    "question": "Why worry about climate change when there are so many people still unemployed?",
+    "choices": [
+      "Bandwagon",
+      "Red Herring",
+      "Slippery Slope",
+      "Appeal to Authority"
+    ],
+    "answer": "Red Herring"
+  },
+  {
+    "id": 73,
+    "question": "This supplement must be effective.it's endorsed by a famous actor.",
+    "choices": [
+      "Appeal to Authority",
+      "Hasty Generalization",
+      "Bandwagon",
+      "Straw Man"
+    ],
+    "answer": "Appeal to Authority"
+  },
+  {
+    "id": 74,
+    "question": "Everyone at school is using this app, so it must be the best.",
+    "choices": [
+      "Hasty Generalization",
+      "Ad Hominem",
+      "Appeal to Emotion",
+      "Bandwagon"
+    ],
+    "answer": "Bandwagon"
+  },
+  {
+    "id": 75,
+    "question": "If you care about your children, you will support this bill without question.",
+    "choices": [
+      "Begging the Question",
+      "Appeal to Emotion",
+      "Ad Hominem",
+      "False Dilemma"
+    ],
+    "answer": "Appeal to Emotion"
+  },
+  {
+    "id": 76,
+    "question": "You either support the new policy or you're against progress.",
+    "choices": [
+      "Hasty Generalization",
+      "Begging the Question",
+      "False Dilemma",
+      "Straw Man"
+    ],
+    "answer": "False Dilemma"
+  },
+  {
+    "id": 77,
+    "question": "Everyone at school is using this app, so it must be the best.",
+    "choices": [
+      "Hasty Generalization",
+      "Bandwagon",
+      "Circular Reasoning",
+      "Slippery Slope"
+    ],
+    "answer": "Bandwagon"
+  },
+  {
+    "id": 78,
+    "question": "Reading is important because it's essential to learn how to read.",
+    "choices": [
+      "Circular Reasoning",
+      "Bandwagon",
+      "False Dilemma",
+      "Begging the Question"
+    ],
+    "answer": "Begging the Question"
+  },
+  {
+    "id": 79,
+    "question": "Why should we listen to Jenny's opinion on politics? She failed math class in high school.",
+    "choices": [
+      "Slippery Slope",
+      "Ad Hominem",
+      "Straw Man",
+      "Red Herring"
+    ],
+    "answer": "Ad Hominem"
+  },
+  {
+    "id": 80,
+    "question": "Mark says we should have fewer homework assignments, and Lisa replies that Mark just wants kids to stop learning entirely.",
+    "choices": [
+      "Straw Man",
+      "Bandwagon",
+      "Red Herring",
+      "Post Hoc"
+    ],
+    "answer": "Straw Man"
+  },
+  {
+    "id": 81,
+    "question": "If we allow students to choose their own classes, soon they'll stop attending school altogether.",
+    "choices": [
+      "Circular Reasoning",
+      "Slippery Slope",
+      "Bandwagon",
+      "Begging the Question"
+    ],
+    "answer": "Slippery Slope"
+  },
+  {
+    "id": 82,
+    "question": "Ever since the mayor took office, crime rates increased.she must be responsible.",
+    "choices": [
+      "Begging the Question",
+      "Appeal to Authority",
+      "Hasty Generalization",
+      "Post Hoc"
+    ],
+    "answer": "Post Hoc"
+  },
+  {
+    "id": 83,
+    "question": "I met two rude people from that city; everyone there must be unfriendly.",
+    "choices": [
+      "Hasty Generalization",
+      "Ad Hominem",
+      "Slippery Slope",
+      "False Dilemma"
+    ],
+    "answer": "Hasty Generalization"
+  },
+  {
+    "id": 84,
+    "question": "If you care about your children, you will support this bill without question.",
+    "choices": [
+      "Red Herring",
+      "Appeal to Emotion",
+      "Ad Hominem",
+      "Circular Reasoning"
+    ],
+    "answer": "Appeal to Emotion"
+  },
+  {
+    "id": 85,
+    "question": "We should trust the mayor because she's the best leader, and she's the best leader because people trust her.",
+    "choices": [
+      "Circular Reasoning",
+      "Red Herring",
+      "Appeal to Emotion",
+      "Straw Man"
+    ],
+    "answer": "Circular Reasoning"
+  },
+  {
+    "id": 86,
+    "question": "If you care about your children, you will support this bill without question.",
+    "choices": [
+      "Circular Reasoning",
+      "Begging the Question",
+      "Appeal to Emotion",
+      "Appeal to Authority"
+    ],
+    "answer": "Appeal to Emotion"
+  },
+  {
+    "id": 87,
+    "question": "Everyone at school is using this app, so it must be the best.",
+    "choices": [
+      "Ad Hominem",
+      "Red Herring",
+      "Post Hoc",
+      "Bandwagon"
+    ],
+    "answer": "Bandwagon"
+  },
+  {
+    "id": 88,
+    "question": "Why worry about climate change when there are so many people still unemployed?",
+    "choices": [
+      "Bandwagon",
+      "Red Herring",
+      "Ad Hominem",
+      "Straw Man"
+    ],
+    "answer": "Red Herring"
+  },
+  {
+    "id": 89,
+    "question": "If you care about your children, you will support this bill without question.",
+    "choices": [
+      "Appeal to Emotion",
+      "Bandwagon",
+      "Circular Reasoning",
+      "Ad Hominem"
+    ],
+    "answer": "Appeal to Emotion"
+  },
+  {
+    "id": 90,
+    "question": "Reading is important because it's essential to learn how to read.",
+    "choices": [
+      "Straw Man",
+      "Red Herring",
+      "Begging the Question",
+      "Post Hoc"
+    ],
+    "answer": "Begging the Question"
+  },
+  {
+    "id": 91,
+    "question": "Why should we listen to Jenny's opinion on politics? She failed math class in high school.",
+    "choices": [
+      "Ad Hominem",
+      "Hasty Generalization",
+      "Post Hoc",
+      "Circular Reasoning"
+    ],
+    "answer": "Ad Hominem"
+  },
+  {
+    "id": 92,
+    "question": "If you care about your children, you will support this bill without question.",
+    "choices": [
+      "Slippery Slope",
+      "Straw Man",
+      "Appeal to Emotion",
+      "Circular Reasoning"
+    ],
+    "answer": "Appeal to Emotion"
+  },
+  {
+    "id": 93,
+    "question": "I met two rude people from that city; everyone there must be unfriendly.",
+    "choices": [
+      "Ad Hominem",
+      "Appeal to Authority",
+      "Hasty Generalization",
+      "Appeal to Emotion"
+    ],
+    "answer": "Hasty Generalization"
+  },
+  {
+    "id": 94,
+    "question": "Ever since the mayor took office, crime rates increased.she must be responsible.",
+    "choices": [
+      "Post Hoc",
+      "False Dilemma",
+      "Appeal to Authority",
+      "Bandwagon"
+    ],
+    "answer": "Post Hoc"
+  },
+  {
+    "id": 95,
+    "question": "If you care about your children, you will support this bill without question.",
+    "choices": [
+      "Appeal to Authority",
+      "Appeal to Emotion",
+      "Ad Hominem",
+      "Begging the Question"
+    ],
+    "answer": "Appeal to Emotion"
+  },
+  {
+    "id": 96,
+    "question": "You either support the new policy or you're against progress.",
+    "choices": [
+      "False Dilemma",
+      "Hasty Generalization",
+      "Circular Reasoning",
+      "Post Hoc"
+    ],
+    "answer": "False Dilemma"
+  },
+  {
+    "id": 97,
+    "question": "Reading is important because it's essential to learn how to read.",
+    "choices": [
+      "Begging the Question",
+      "Red Herring",
+      "Appeal to Emotion",
+      "Post Hoc"
+    ],
+    "answer": "Begging the Question"
+  },
+  {
+    "id": 98,
+    "question": "Ever since the mayor took office, crime rates increased.she must be responsible.",
+    "choices": [
+      "Post Hoc",
+      "Red Herring",
+      "Hasty Generalization",
+      "Ad Hominem"
+    ],
+    "answer": "Post Hoc"
+  },
+  {
+    "id": 99,
+    "question": "Why worry about climate change when there are so many people still unemployed?",
+    "choices": [
+      "Appeal to Emotion",
+      "Hasty Generalization",
+      "Bandwagon",
+      "Red Herring"
+    ],
+    "answer": "Red Herring"
+  },
+  {
+    "id": 100,
+    "question": "Why worry about climate change when there are so many people still unemployed?",
+    "choices": [
+      "Red Herring",
+      "Hasty Generalization",
+      "Slippery Slope",
+      "Circular Reasoning"
+    ],
+    "answer": "Red Herring"
+  },
+  {
+    "id": 101,
+    "question": "We should trust the mayor because she's the best leader, and she's the best leader because people trust her.",
+    "choices": [
+      "Appeal to Emotion",
+      "Straw Man",
+      "Circular Reasoning",
+      "Post Hoc"
+    ],
+    "answer": "Circular Reasoning"
+  },
+  {
+    "id": 102,
+    "question": "I met two rude people from that city; everyone there must be unfriendly.",
+    "choices": [
+      "Slippery Slope",
+      "Bandwagon",
+      "Hasty Generalization",
+      "Ad Hominem"
+    ],
+    "answer": "Hasty Generalization"
+  },
+  {
+    "id": 103,
+    "question": "I met two rude people from that city; everyone there must be unfriendly.",
+    "choices": [
+      "Appeal to Emotion",
+      "Hasty Generalization",
+      "Begging the Question",
+      "Post Hoc"
+    ],
+    "answer": "Hasty Generalization"
+  },
+  {
+    "id": 104,
+    "question": "Reading is important because it's essential to learn how to read.",
+    "choices": [
+      "Begging the Question",
+      "Bandwagon",
+      "Circular Reasoning",
+      "Hasty Generalization"
+    ],
+    "answer": "Begging the Question"
+  },
+  {
+    "id": 105,
+    "question": "Everyone at school is using this app, so it must be the best.",
+    "choices": [
+      "Post Hoc",
+      "Hasty Generalization",
+      "Bandwagon",
+      "False Dilemma"
+    ],
+    "answer": "Bandwagon"
+  },
+  {
+    "id": 106,
+    "question": "Ever since the mayor took office, crime rates increased.she must be responsible.",
+    "choices": [
+      "Hasty Generalization",
+      "Post Hoc",
+      "Ad Hominem",
+      "Begging the Question"
+    ],
+    "answer": "Post Hoc"
+  },
+  {
+    "id": 107,
+    "question": "You either support the new policy or you're against progress.",
+    "choices": [
+      "Straw Man",
+      "False Dilemma",
+      "Hasty Generalization",
+      "Bandwagon"
+    ],
+    "answer": "False Dilemma"
+  },
+  {
+    "id": 108,
+    "question": "Ever since the mayor took office, crime rates increased.she must be responsible.",
+    "choices": [
+      "Post Hoc",
+      "Appeal to Emotion",
+      "Bandwagon",
+      "Straw Man"
+    ],
+    "answer": "Post Hoc"
+  },
+  {
+    "id": 109,
+    "question": "Why should we listen to Jenny's opinion on politics? She failed math class in high school.",
+    "choices": [
+      "Post Hoc",
+      "Begging the Question",
+      "Ad Hominem",
+      "Appeal to Authority"
+    ],
+    "answer": "Ad Hominem"
+  },
+  {
+    "id": 110,
+    "question": "Ever since the mayor took office, crime rates increased.she must be responsible.",
+    "choices": [
+      "Red Herring",
+      "Post Hoc",
+      "False Dilemma",
+      "Ad Hominem"
+    ],
+    "answer": "Post Hoc"
+  },
+  {
+    "id": 111,
+    "question": "If we allow students to choose their own classes, soon they'll stop attending school altogether.",
+    "choices": [
+      "Slippery Slope",
+      "Appeal to Emotion",
+      "Circular Reasoning",
+      "Appeal to Authority"
+    ],
+    "answer": "Slippery Slope"
+  },
+  {
+    "id": 112,
+    "question": "Mark says we should have fewer homework assignments, and Lisa replies that Mark just wants kids to stop learning entirely.",
+    "choices": [
+      "Hasty Generalization",
+      "False Dilemma",
+      "Straw Man",
+      "Appeal to Authority"
+    ],
+    "answer": "Straw Man"
+  },
+  {
+    "id": 113,
+    "question": "Why should we listen to Jenny's opinion on politics? She failed math class in high school.",
+    "choices": [
+      "Begging the Question",
+      "Appeal to Emotion",
+      "Ad Hominem",
+      "Hasty Generalization"
+    ],
+    "answer": "Ad Hominem"
+  },
+  {
+    "id": 114,
+    "question": "If we allow students to choose their own classes, soon they'll stop attending school altogether.",
+    "choices": [
+      "Slippery Slope",
+      "Red Herring",
+      "Appeal to Emotion",
+      "Straw Man"
+    ],
+    "answer": "Slippery Slope"
+  },
+  {
+    "id": 115,
+    "question": "If we allow students to choose their own classes, soon they'll stop attending school altogether.",
+    "choices": [
+      "False Dilemma",
+      "Ad Hominem",
+      "Begging the Question",
+      "Slippery Slope"
+    ],
+    "answer": "Slippery Slope"
+  },
+  {
+    "id": 116,
+    "question": "I met two rude people from that city; everyone there must be unfriendly.",
+    "choices": [
+      "Circular Reasoning",
+      "Hasty Generalization",
+      "Red Herring",
+      "False Dilemma"
+    ],
+    "answer": "Hasty Generalization"
+  },
+  {
+    "id": 117,
+    "question": "You either support the new policy or you're against progress.",
+    "choices": [
+      "False Dilemma",
+      "Bandwagon",
+      "Slippery Slope",
+      "Appeal to Emotion"
+    ],
+    "answer": "False Dilemma"
+  },
+  {
+    "id": 118,
+    "question": "If you care about your children, you'll support this bill without question.",
+    "choices": [
+      "Straw Man",
+      "Appeal to Emotion",
+      "Hasty Generalization",
+      "Ad Hominem"
+    ],
+    "answer": "Appeal to Emotion"
+  },
+  {
+    "id": 119,
+    "question": "Mark says we should have fewer homework assignments, and Lisa replies that Mark just wants kids to stop learning entirely.",
+    "choices": [
+      "Slippery Slope",
+      "False Dilemma",
+      "Straw Man",
+      "Circular Reasoning"
+    ],
+    "answer": "Straw Man"
+  },
+  {
+    "id": 120,
+    "question": "We should trust the mayor because she's the best leader, and she's the best leader because people trust her.",
+    "choices": [
+      "Circular Reasoning",
+      "Post Hoc",
+      "Appeal to Authority",
+      "Bandwagon"
+    ],
+    "answer": "Circular Reasoning"
+  },
+  {
+    "id": 121,
+    "question": "Ever since the mayor took office, crime rates increased.she must be responsible.",
+    "choices": [
+      "Appeal to Authority",
+      "Slippery Slope",
+      "Circular Reasoning",
+      "Post Hoc"
+    ],
+    "answer": "Post Hoc"
+  },
+  {
+    "id": 122,
+    "question": "You either support the new policy or you're against progress.",
+    "choices": [
+      "Slippery Slope",
+      "False Dilemma",
+      "Red Herring",
+      "Begging the Question"
+    ],
+    "answer": "False Dilemma"
+  },
+  {
+    "id": 123,
+    "question": "Why should we listen to Jenny's opinion on politics? She failed math class in high school.",
+    "choices": [
+      "Hasty Generalization",
+      "Appeal to Authority",
+      "Bandwagon",
+      "Ad Hominem"
+    ],
+    "answer": "Ad Hominem"
+  },
+  {
+    "id": 124,
+    "question": "Ever since the mayor took office, crime rates increased.she must be responsible.",
+    "choices": [
+      "Appeal to Emotion",
+      "Slippery Slope",
+      "Ad Hominem",
+      "Post Hoc"
+    ],
+    "answer": "Post Hoc"
+  },
+  {
+    "id": 125,
+    "question": "Ever since the mayor took office, crime rates increased.she must be responsible.",
+    "choices": [
+      "Slippery Slope",
+      "Hasty Generalization",
+      "Ad Hominem",
+      "Post Hoc"
+    ],
+    "answer": "Post Hoc"
+  },
+  {
+    "id": 126,
+    "question": "Ever since the mayor took office, crime rates increased.she must be responsible.",
+    "choices": [
+      "Straw Man",
+      "False Dilemma",
+      "Post Hoc",
+      "Appeal to Emotion"
+    ],
+    "answer": "Post Hoc"
+  },
+  {
+    "id": 127,
+    "question": "We should trust the mayor because she's the best leader, and she's the best leader because people trust her.",
+    "choices": [
+      "Circular Reasoning",
+      "Bandwagon",
+      "Ad Hominem",
+      "Appeal to Emotion"
+    ],
+    "answer": "Circular Reasoning"
+  },
+  {
+    "id": 128,
+    "question": "Reading is important because it's essential to learn how to read.",
+    "choices": [
+      "Slippery Slope",
+      "Begging the Question",
+      "Hasty Generalization",
+      "Red Herring"
+    ],
+    "answer": "Begging the Question"
+  },
+  {
+    "id": 129,
+    "question": "We should trust the mayor because she's the best leader, and she's the best leader because people trust her.",
+    "choices": [
+      "Circular Reasoning",
+      "Red Herring",
+      "Post Hoc",
+      "Slippery Slope"
+    ],
+    "answer": "Circular Reasoning"
+  },
+  {
+    "id": 130,
+    "question": "Mark says we should have fewer homework assignments, and Lisa replies that Mark just wants kids to stop learning entirely.",
+    "choices": [
+      "Appeal to Emotion",
+      "Straw Man",
+      "Ad Hominem",
+      "Circular Reasoning"
+    ],
+    "answer": "Straw Man"
+  },
+  {
+    "id": 131,
+    "question": "Everyone at school is using this app, so it must be the best.",
+    "choices": [
+      "Slippery Slope",
+      "Bandwagon",
+      "Post Hoc",
+      "Circular Reasoning"
+    ],
+    "answer": "Bandwagon"
+  },
+  {
+    "id": 132,
+    "question": "Mark says we should have fewer homework assignments, and Lisa replies that Mark just wants kids to stop learning entirely.",
+    "choices": [
+      "Straw Man",
+      "Slippery Slope",
+      "Appeal to Authority",
+      "Begging the Question"
+    ],
+    "answer": "Straw Man"
+  },
+  {
+    "id": 133,
+    "question": "This supplement must be effective.it's endorsed by a famous actor.",
+    "choices": [
+      "Appeal to Authority",
+      "Straw Man",
+      "Hasty Generalization",
+      "Ad Hominem"
+    ],
+    "answer": "Appeal to Authority"
+  },
+  {
+    "id": 134,
+    "question": "Why should we listen to Jenny's opinion on politics? She failed math class in high school.",
+    "choices": [
+      "Slippery Slope",
+      "Appeal to Emotion",
+      "Ad Hominem",
+      "Circular Reasoning"
+    ],
+    "answer": "Ad Hominem"
+  },
+  {
+    "id": 135,
+    "question": "We should trust the mayor because she's the best leader, and she's the best leader because people trust her.",
+    "choices": [
+      "Straw Man",
+      "Appeal to Emotion",
+      "Circular Reasoning",
+      "Appeal to Authority"
+    ],
+    "answer": "Circular Reasoning"
+  },
+  {
+    "id": 136,
+    "question": "Reading is important because it's essential to learn how to read.",
+    "choices": [
+      "Appeal to Emotion",
+      "Begging the Question",
+      "Bandwagon",
+      "Ad Hominem"
+    ],
+    "answer": "Begging the Question"
+  },
+  {
+    "id": 137,
+    "question": "I met two rude people from that city; everyone there must be unfriendly.",
+    "choices": [
+      "Hasty Generalization",
+      "Straw Man",
+      "Slippery Slope",
+      "Red Herring"
+    ],
+    "answer": "Hasty Generalization"
+  },
+  {
+    "id": 138,
+    "question": "We should trust the mayor because she's the best leader, and she's the best leader because people trust her.",
+    "choices": [
+      "Bandwagon",
+      "Slippery Slope",
+      "Ad Hominem",
+      "Circular Reasoning"
+    ],
+    "answer": "Circular Reasoning"
+  },
+  {
+    "id": 139,
+    "question": "Ever since the mayor took office, crime rates increased.she must be responsible.",
+    "choices": [
+      "Ad Hominem",
+      "False Dilemma",
+      "Post Hoc",
+      "Red Herring"
+    ],
+    "answer": "Post Hoc"
+  },
+  {
+    "id": 140,
+    "question": "Everyone at school is using this app, so it must be the best.",
+    "choices": [
+      "Ad Hominem",
+      "Begging the Question",
+      "Bandwagon",
+      "Appeal to Emotion"
+    ],
+    "answer": "Bandwagon"
+  },
+  {
+    "id": 141,
+    "question": "We should trust the mayor because she's the best leader, and she's the best leader because people trust her.",
+    "choices": [
+      "Circular Reasoning",
+      "Begging the Question",
+      "False Dilemma",
+      "Hasty Generalization"
+    ],
+    "answer": "Circular Reasoning"
+  },
+  {
+    "id": 142,
+    "question": "Everyone at school is using this app, so it must be the best.",
+    "choices": [
+      "Ad Hominem",
+      "Bandwagon",
+      "Appeal to Emotion",
+      "Appeal to Authority"
+    ],
+    "answer": "Bandwagon"
+  },
+  {
+    "id": 143,
+    "question": "Everyone at school is using this app, so it must be the best.",
+    "choices": [
+      "Appeal to Emotion",
+      "Appeal to Authority",
+      "Begging the Question",
+      "Bandwagon"
+    ],
+    "answer": "Bandwagon"
+  },
+  {
+    "id": 144,
+    "question": "Reading is important because it's essential to learn how to read.",
+    "choices": [
+      "Begging the Question",
+      "Slippery Slope",
+      "Post Hoc",
+      "Hasty Generalization"
+    ],
+    "answer": "Begging the Question"
+  },
+  {
+    "id": 145,
+    "question": "We should trust the mayor because she's the best leader, and she's the best leader because people trust her.",
+    "choices": [
+      "Circular Reasoning",
+      "Red Herring",
+      "False Dilemma",
+      "Hasty Generalization"
+    ],
+    "answer": "Circular Reasoning"
+  },
+  {
+    "id": 146,
+    "question": "Ever since the mayor took office, crime rates increased.she must be responsible.",
+    "choices": [
+      "Straw Man",
+      "Appeal to Authority",
+      "Slippery Slope",
+      "Post Hoc"
+    ],
+    "answer": "Post Hoc"
+  },
+  {
+    "id": 147,
+    "question": "Everyone at school is using this app, so it must be the best.",
+    "choices": [
+      "Bandwagon",
+      "Circular Reasoning",
+      "Hasty Generalization",
+      "False Dilemma"
+    ],
+    "answer": "Bandwagon"
+  },
+  {
+    "id": 148,
+    "question": "Why should we listen to Jenny's opinion on politics? She failed math class in high school.",
+    "choices": [
+      "Ad Hominem",
+      "Straw Man",
+      "Hasty Generalization",
+      "Appeal to Authority"
+    ],
+    "answer": "Ad Hominem"
+  },
+  {
+    "id": 149,
+    "question": "I met two rude people from that city; everyone there must be unfriendly.",
+    "choices": [
+      "Slippery Slope",
+      "Circular Reasoning",
+      "Appeal to Emotion",
+      "Hasty Generalization"
+    ],
+    "answer": "Hasty Generalization"
+  },
+  {
+    "id": 150,
+    "question": "This supplement must be effective.it's endorsed by a famous actor.",
+    "choices": [
+      "Begging the Question",
+      "Circular Reasoning",
+      "Appeal to Authority",
+      "Post Hoc"
+    ],
+    "answer": "Appeal to Authority"
+  },
+  {
+    "id": 151,
+    "question": "You either support the new policy or you're against progress.",
+    "choices": [
+      "Straw Man",
+      "Appeal to Authority",
+      "False Dilemma",
+      "Hasty Generalization"
+    ],
+    "answer": "False Dilemma"
+  },
+  {
+    "id": 152,
+    "question": "This supplement must be effective.it's endorsed by a famous actor.",
+    "choices": [
+      "Circular Reasoning",
+      "Post Hoc",
+      "Slippery Slope",
+      "Appeal to Authority"
+    ],
+    "answer": "Appeal to Authority"
+  },
+  {
+    "id": 153,
+    "question": "Mark says we should have fewer homework assignments, and Lisa replies that Mark just wants kids to stop learning entirely.",
+    "choices": [
+      "Straw Man",
+      "Hasty Generalization",
+      "Bandwagon",
+      "Red Herring"
+    ],
+    "answer": "Straw Man"
+  },
+  {
+    "id": 154,
+    "question": "Everyone at school is using this app, so it must be the best.",
+    "choices": [
+      "Slippery Slope",
+      "Bandwagon",
+      "Appeal to Authority",
+      "Begging the Question"
+    ],
+    "answer": "Bandwagon"
+  },
+  {
+    "id": 155,
+    "question": "We should trust the mayor because she's the best leader, and she's the best leader because people trust her.",
+    "choices": [
+      "Post Hoc",
+      "Bandwagon",
+      "Appeal to Emotion",
+      "Circular Reasoning"
+    ],
+    "answer": "Circular Reasoning"
+  },
+  {
+    "id": 156,
+    "question": "If we allow students to choose their own classes, soon they'll stop attending school altogether.",
+    "choices": [
+      "Post Hoc",
+      "Slippery Slope",
+      "Begging the Question",
+      "Hasty Generalization"
+    ],
+    "answer": "Slippery Slope"
+  },
+  {
+    "id": 157,
+    "question": "Why worry about climate change when there are so many people still unemployed?",
+    "choices": [
+      "Straw Man",
+      "Appeal to Authority",
+      "Ad Hominem",
+      "Red Herring"
+    ],
+    "answer": "Red Herring"
+  },
+  {
+    "id": 158,
+    "question": "Reading is important because it's essential to learn how to read.",
+    "choices": [
+      "Straw Man",
+      "Begging the Question",
+      "Hasty Generalization",
+      "Bandwagon"
+    ],
+    "answer": "Begging the Question"
+  },
+  {
+    "id": 159,
+    "question": "I met two rude people from that city; everyone there must be unfriendly.",
+    "choices": [
+      "Appeal to Authority",
+      "Hasty Generalization",
+      "Begging the Question",
+      "Post Hoc"
+    ],
+    "answer": "Hasty Generalization"
+  },
+  {
+    "id": 160,
+    "question": "If we allow students to choose their own classes, soon they'll stop attending school altogether.",
+    "choices": [
+      "Appeal to Emotion",
+      "Slippery Slope",
+      "Ad Hominem",
+      "Post Hoc"
+    ],
+    "answer": "Slippery Slope"
+  },
+  {
+    "id": 161,
+    "question": "Reading is important because it's essential to learn how to read.",
+    "choices": [
+      "Begging the Question",
+      "False Dilemma",
+      "Appeal to Emotion",
+      "Hasty Generalization"
+    ],
+    "answer": "Begging the Question"
+  },
+  {
+    "id": 162,
+    "question": "If we allow students to choose their own classes, soon they'll stop attending school altogether.",
+    "choices": [
+      "Circular Reasoning",
+      "Slippery Slope",
+      "Post Hoc",
+      "Hasty Generalization"
+    ],
+    "answer": "Slippery Slope"
+  },
+  {
+    "id": 163,
+    "question": "Ever since the mayor took office, crime rates increased.she must be responsible.",
+    "choices": [
+      "Red Herring",
+      "Post Hoc",
+      "Begging the Question",
+      "Hasty Generalization"
+    ],
+    "answer": "Post Hoc"
+  },
+  {
+    "id": 164,
+    "question": "Mark says we should have fewer homework assignments, and Lisa replies that Mark just wants kids to stop learning entirely.",
+    "choices": [
+      "Ad Hominem",
+      "Appeal to Emotion",
+      "Straw Man",
+      "Appeal to Authority"
+    ],
+    "answer": "Straw Man"
+  },
+  {
+    "id": 165,
+    "question": "If you care about your children, you will support this bill without question.",
+    "choices": [
+      "False Dilemma",
+      "Appeal to Emotion",
+      "Hasty Generalization",
+      "Begging the Question"
+    ],
+    "answer": "Appeal to Emotion"
+  },
+  {
+    "id": 166,
+    "question": "If we allow students to choose their own classes, soon they'll stop attending school altogether.",
+    "choices": [
+      "Slippery Slope",
+      "Appeal to Authority",
+      "Appeal to Emotion",
+      "Straw Man"
+    ],
+    "answer": "Slippery Slope"
+  },
+  {
+    "id": 167,
+    "question": "We should trust the mayor because she's the best leader, and she's the best leader because people trust her.",
+    "choices": [
+      "Post Hoc",
+      "Circular Reasoning",
+      "Slippery Slope",
+      "Straw Man"
+    ],
+    "answer": "Circular Reasoning"
+  },
+  {
+    "id": 168,
+    "question": "I met two rude people from that city; everyone there must be unfriendly.",
+    "choices": [
+      "Begging the Question",
+      "Hasty Generalization",
+      "Bandwagon",
+      "Appeal to Emotion"
+    ],
+    "answer": "Hasty Generalization"
+  },
+  {
+    "id": 169,
+    "question": "You either support the new policy or you're against progress.",
+    "choices": [
+      "Bandwagon",
+      "False Dilemma",
+      "Hasty Generalization",
+      "Slippery Slope"
+    ],
+    "answer": "False Dilemma"
+  },
+  {
+    "id": 170,
+    "question": "Reading is important because it's essential to learn how to read.",
+    "choices": [
+      "Circular Reasoning",
+      "Appeal to Emotion",
+      "Begging the Question",
+      "Red Herring"
+    ],
+    "answer": "Begging the Question"
+  },
+  {
+    "id": 171,
+    "question": "Why worry about climate change when there are so many people still unemployed?",
+    "choices": [
+      "Appeal to Authority",
+      "Circular Reasoning",
+      "Appeal to Emotion",
+      "Red Herring"
+    ],
+    "answer": "Red Herring"
+  },
+  {
+    "id": 172,
+    "question": "I met two rude people from that city; everyone there must be unfriendly.",
+    "choices": [
+      "Bandwagon",
+      "Red Herring",
+      "Circular Reasoning",
+      "Hasty Generalization"
+    ],
+    "answer": "Hasty Generalization"
+  },
+  {
+    "id": 173,
+    "question": "Mark says we should have fewer homework assignments, and Lisa replies that Mark just wants kids to stop learning entirely.",
+    "choices": [
+      "Red Herring",
+      "Straw Man",
+      "Post Hoc",
+      "False Dilemma"
+    ],
+    "answer": "Straw Man"
+  },
+  {
+    "id": 174,
+    "question": "Everyone at school is using this app, so it must be the best.",
+    "choices": [
+      "Ad Hominem",
+      "Appeal to Authority",
+      "Circular Reasoning",
+      "Bandwagon"
+    ],
+    "answer": "Bandwagon"
+  },
+  {
+    "id": 175,
+    "question": "I met two rude people from that city; everyone there must be unfriendly.",
+    "choices": [
+      "Hasty Generalization",
+      "Straw Man",
+      "Appeal to Emotion",
+      "Ad Hominem"
+    ],
+    "answer": "Hasty Generalization"
+  },
+  {
+    "id": 176,
+    "question": "If we allow students to choose their own classes, soon they'll stop attending school altogether.",
+    "choices": [
+      "Ad Hominem",
+      "Slippery Slope",
+      "Appeal to Emotion",
+      "Straw Man"
+    ],
+    "answer": "Slippery Slope"
+  },
+  {
+    "id": 177,
+    "question": "This supplement must be effective.it's endorsed by a famous actor.",
+    "choices": [
+      "Slippery Slope",
+      "Post Hoc",
+      "Ad Hominem",
+      "Appeal to Authority"
+    ],
+    "answer": "Appeal to Authority"
+  },
+  {
+    "id": 178,
+    "question": "Reading is important because it's essential to learn how to read.",
+    "choices": [
+      "Post Hoc",
+      "False Dilemma",
+      "Red Herring",
+      "Begging the Question"
+    ],
+    "answer": "Begging the Question"
+  },
+  {
+    "id": 179,
+    "question": "If we allow students to choose their own classes, soon they'll stop attending school altogether.",
+    "choices": [
+      "Appeal to Authority",
+      "Slippery Slope",
+      "Appeal to Emotion",
+      "False Dilemma"
+    ],
+    "answer": "Slippery Slope"
+  },
+  {
+    "id": 180,
+    "question": "Ever since the mayor took office, crime rates increased.she must be responsible.",
+    "choices": [
+      "Slippery Slope",
+      "Post Hoc",
+      "Straw Man",
+      "Circular Reasoning"
+    ],
+    "answer": "Post Hoc"
+  },
+  {
+    "id": 181,
+    "question": "Everyone at school is using this app, so it must be the best.",
+    "choices": [
+      "Slippery Slope",
+      "Appeal to Emotion",
+      "Bandwagon",
+      "Begging the Question"
+    ],
+    "answer": "Bandwagon"
+  },
+  {
+    "id": 182,
+    "question": "This supplement must be effective.it's endorsed by a famous actor.",
+    "choices": [
+      "Appeal to Authority",
+      "Red Herring",
+      "Ad Hominem",
+      "Post Hoc"
+    ],
+    "answer": "Appeal to Authority"
+  },
+  {
+    "id": 183,
+    "question": "Ever since the mayor took office, crime rates increased.she must be responsible.",
+    "choices": [
+      "Ad Hominem",
+      "Post Hoc",
+      "Red Herring",
+      "Straw Man"
+    ],
+    "answer": "Post Hoc"
+  },
+  {
+    "id": 184,
+    "question": "Why worry about climate change when there are so many people still unemployed?",
+    "choices": [
+      "Appeal to Authority",
+      "Red Herring",
+      "Begging the Question",
+      "Post Hoc"
+    ],
+    "answer": "Red Herring"
+  },
+  {
+    "id": 185,
+    "question": "We should trust the mayor because she's the best leader, and she's the best leader because people trust her.",
+    "choices": [
+      "Circular Reasoning",
+      "Post Hoc",
+      "Begging the Question",
+      "Hasty Generalization"
+    ],
+    "answer": "Circular Reasoning"
+  },
+  {
+    "id": 186,
+    "question": "I met two rude people from that city; everyone there must be unfriendly.",
+    "choices": [
+      "Bandwagon",
+      "Hasty Generalization",
+      "Post Hoc",
+      "Slippery Slope"
+    ],
+    "answer": "Hasty Generalization"
+  },
+  {
+    "id": 187,
+    "question": "Ever since the mayor took office, crime rates increased.she must be responsible.",
+    "choices": [
+      "False Dilemma",
+      "Straw Man",
+      "Appeal to Authority",
+      "Post Hoc"
+    ],
+    "answer": "Post Hoc"
+  },
+  {
+    "id": 188,
+    "question": "If you care about your children, you will support this bill without question.",
+    "choices": [
+      "Red Herring",
+      "Appeal to Emotion",
+      "Slippery Slope",
+      "Post Hoc"
+    ],
+    "answer": "Appeal to Emotion"
+  },
+  {
+    "id": 189,
+    "question": "Reading is important because it's essential to learn how to read.",
+    "choices": [
+      "Begging the Question",
+      "Straw Man",
+      "False Dilemma",
+      "Appeal to Authority"
+    ],
+    "answer": "Begging the Question"
+  },
+  {
+    "id": 190,
+    "question": "We should trust the mayor because she's the best leader, and she's the best leader because people trust her.",
+    "choices": [
+      "Circular Reasoning",
+      "Bandwagon",
+      "Appeal to Authority",
+      "Post Hoc"
+    ],
+    "answer": "Circular Reasoning"
+  },
+  {
+    "id": 191,
+    "question": "Ever since the mayor took office, crime rates increased.she must be responsible.",
+    "choices": [
+      "Slippery Slope",
+      "Begging the Question",
+      "Post Hoc",
+      "Hasty Generalization"
+    ],
+    "answer": "Post Hoc"
+  },
+  {
+    "id": 192,
+    "question": "We should trust the mayor because she's the best leader, and she's the best leader because people trust her.",
+    "choices": [
+      "Ad Hominem",
+      "Bandwagon",
+      "Begging the Question",
+      "Circular Reasoning"
+    ],
+    "answer": "Circular Reasoning"
+  },
+  {
+    "id": 193,
+    "question": "Why worry about climate change when there are so many people still unemployed?",
+    "choices": [
+      "Appeal to Authority",
+      "Red Herring",
+      "Straw Man",
+      "Ad Hominem"
+    ],
+    "answer": "Red Herring"
+  },
+  {
+    "id": 194,
+    "question": "If you care about your children, you will support this bill without question.",
+    "choices": [
+      "Straw Man",
+      "Bandwagon",
+      "Slippery Slope",
+      "Appeal to Emotion"
+    ],
+    "answer": "Appeal to Emotion"
+  },
+  {
+    "id": 195,
+    "question": "If we allow students to choose their own classes, soon they'll stop attending school altogether.",
+    "choices": [
+      "Ad Hominem",
+      "Hasty Generalization",
+      "Slippery Slope",
+      "Post Hoc"
+    ],
+    "answer": "Slippery Slope"
+  },
+  {
+    "id": 196,
+    "question": "If you care about your children, you will support this bill without question.",
+    "choices": [
+      "Post Hoc",
+      "Appeal to Authority",
+      "Hasty Generalization",
+      "Appeal to Emotion"
+    ],
+    "answer": "Appeal to Emotion"
+  },
+  {
+    "id": 197,
+    "question": "We should trust the mayor because she's the best leader, and she's the best leader because people trust her.",
+    "choices": [
+      "Hasty Generalization",
+      "Appeal to Emotion",
+      "False Dilemma",
+      "Circular Reasoning"
+    ],
+    "answer": "Circular Reasoning"
+  },
+  {
+    "id": 198,
+    "question": "Everyone at school is using this app, so it must be the best.",
+    "choices": [
+      "False Dilemma",
+      "Appeal to Authority",
+      "Hasty Generalization",
+      "Bandwagon"
+    ],
+    "answer": "Bandwagon"
+  },
+  {
+    "id": 199,
+    "question": "You either support the new policy or you're against progress.",
+    "choices": [
+      "Hasty Generalization",
+      "Straw Man",
+      "Red Herring",
+      "False Dilemma"
+    ],
+    "answer": "False Dilemma"
+  },
+  {
+    "id": 200,
+    "question": "We should trust the mayor because she's the best leader, and she's the best leader because people trust her.",
+    "choices": [
+      "Circular Reasoning",
+      "Appeal to Authority",
+      "Appeal to Emotion",
+      "Straw Man"
+    ],
+    "answer": "Circular Reasoning"
+  },
+  
+{
+  "id": 201,
+  "question": "Which of the following is an example of an Ad Hominem fallacy?",
+  "choices": [
+    "You’re just saying that because you want to sound smart.",
+    "If we allow students to choose their own grades, soon no one will take education seriously.",
+    "Everyone knows that climate change is a hoax.",
+    "My neighbor is a terrible driver, so his opinions on road safety are invalid."
+  ],
+  "answer": "My neighbor is a terrible driver, so his opinions on road safety are invalid."
+},
+{
+  "id":202,
+  "question":"What type of fallacy is committed when an argument is misrepresented to make it easier to attack?",
+  "choices":[
+    "Slippery Slope",
+    "Straw Man",
+    "Red Herring",
+    "False Dilemma"
+  ],
+   "answer": "Straw Man"
+},
+{
+  "id":203,
+  "question":"Which fallacy occurs when someone argues that one small change will lead to extreme and undesirable consequences?",
+  "choices":[
+      "Bandon Wagon",
+      "Slippery Slope",
+      "Appeal to Emotion",
+      "Hasty Generalization"
+  ],
+   "answer": "Slippery Slope"
+},
+{
+  "id":"204",
+  "question":"What is a term for a fallacy that appeals to an audience's emotions instead of presenting logical reasoning?",
+  "choices":[
+      "Appeal to Authority",
+      "Appeal to Emotion",
+      "Circular Reasoning",
+      "Hasty Generalization"
+  ],
+   "answer": "Appeal to Emotion"
+},
+{
+  "id":"205",
+  "question":"A False Dilemma presents only two options when there are actually more available.",
+  "choices":[
+  "True",
+  "False"
+  ],
+   "answer": "True"
+
+},
+{
+  "id":"206",
+  "question":"Circular Reasoning occurs when the conclusion of an argument is used as a premise without proper justification.",
+  "choices":[
+  "True",
+  "False"
+  ],
+   "answer": "True"
+
+},
+{
+  "id":"207",
+  "question":"Even though it's only the first day, I can tell this is going to be a boring class.",
+  "choices":[
+    "red herring",
+    "false analogy",
+    "ad populum",
+    "hasty generalization"
+  ],
+   "answer": "hasty generalization"
+
+},
+{
+  "id":"208",
+  "question":"The public should not support Dr. Kidane's plan for improving county health services. He is a former alcoholic whose wife recently divorced him.",
+  "choices":[
+   "ad populum",
+   "slanting",
+   "ad hominem",
+   "false analogy"
+  ],
+   "answer": "ad hominem"
+
+},
+{
+  "id":"209",
+  "question":"Employees are like nails, Just as nails must be hit in the head in order to make them work, so must employees",
+  "choices":[
+      "straw man",
+      "slippery slope",
+      "either/or",
+      "false analogy"
+     
+  ],
+   "answer": "false analogy"
+
+},
+{
+  "id":"210",
+  "question":"Cigarettes should be banned. Children who start smoking cigarettes will then move on to other addictive drugs. Cigarettes are the gateway to death.",
+  "choices":[
+      "slippery slope",
+      "red herring",
+      "straw man",
+      "false analogy"
+  ],
+   "answer": "slippery slope"
+
+},
+{
+  "id":"211",
+  "question":"My roommate said her math class was difficult, and the one I'm in is difficult, too.All math classes must be hard.",
+  "choices":[
+      "false analogy",
+      "post hoc ergo/propter hoc",
+      "hasty generalization",
+       "either/or"
+  ],
+   "answer": "hasty generalization"
+
+},
+{
+  "id":"212",
+  "question":"I drank tap water and now I am sick, so the water must have made me sick.",
+  "choices":[
+      "straw man",
+      "false analogy",
+      "post hoc ergo/propter hoc",
+      "hasty generalization"
+  ],
+   "answer": "post hoc ergo/propter hoc"
+
+},
+{
+  "id":"213",
+  "question":"You are either a capitalist or a socialist",
+  "choices":[
+      "red herring",
+      "straw man",
+      "either/or",
+      "false analogy"
+  ],
+   "answer": "either/or"
+
+},
+{
+  "id":"214",
+  "question":"Green peace's strategies aren't effective because they were all thought up by dirty, lazy hippies.",
+  "choices":[
+      "hasty generalization",
+      "ad populum",
+      "post hoc ergo/propter hoc",
+      "ad hominem"
+  ],
+   "answer": "ad hominem"
+
+},
+{
+  "id":"215",
+  "question":"I disagree with the councilman's statement on the need for more parks in our city. After all, how can we trust him? He got into trouble recently with his corruption case.",
+  "choices":[
+      "ad hominem",
+      "false analogy",
+      "ad populum",
+      "hasty generalization"   
+  ],
+   "answer": "ad hominem"
+
+},
+{
+  "id":"216",
+  "question":"During the last ten years, every time this party is elected president, a recession has followed. The recessions were caused by this party.",
+  "choices":[
+      "false analogy",
+      "post hoc ergo/propter hoc",
+      "slanting",
+      "hasty generalization"
+  ],
+   "answer": "post hoc ergo/propter hoc"
+
+},
+{
+  "id":"217",
+  "question":"The overcrowded conditions in some parts of our city have forced people together like rats in a cage. Like rats, they will eventually turn on one another, fighting and killing until a balance is restored.",
+  "choices":[
+      "either/or",
+      "false analogy",
+      "post hoc ergo/propter hoc",
+      "hasty generalization"   
+  ],
+   "answer": "false analogy"
+
+},
+{
+  "id":"218",
+  "question":"A city councilman recently claimed that women will never be competent firefighters. To support his argument, he pointed out that none of the women in the city's training program had passed the exam.[He did not mention that there were only two women in the program.]",
+  "choices":[
+      "red herring",
+      "straw man",
+      "slanting",
+      "slippery slope"
+  ],
+   "answer": "slanting"
+
+},
+{
+  "id":"219",
+  "question":"With a decrease in the number of pirates, there has been an increase in global warming over the same period. Therefore,global warming is caused by a lack of pirates.",
+  "choices":[
+      "either/or",
+      "hasty generalization",
+       "false analogy",
+      "post hoc ergo/propter hoc"
+  ],
+   "answer": "post hoc ergo/propter hoc"
+
+},
+{
+  "id":"220",
+  "question":"I cheated on my test, and no one caught me. I'm too smart for any professor to catch.",
+  "choices":[
+      "hasty generalization",
+      "false analogy",
+      "red herring",
+      "straw man"
+  ],
+   "answer": "hasty generalization"
+
+},
+{
+  "id":"221",
+  "question":"Mating before marriage is just immoral. Seventy percent of Americans think so!",
+  "choices":[
+      "ad hominem",
+      "ad populum",
+      "straw man",
+      "slanting"
+  ],
+   "answer": "ad populum"
+
+},
+{
+  "id":"222",
+  "question":"The Mayor pointed out that crime statistics for the city had declined during the last three years of his administration.[Not mentioned is the fact that the crime statistics were formerly based on arrests, and are now based on convictions.]",
+  "choices":[
+      "slanting",
+      "red herring",
+      "slippery slope",
+      "either/or"
+  ],
+   "answer": "slanting"
+
+}
+
+
+]

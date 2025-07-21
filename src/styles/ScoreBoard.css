@@ -1,0 +1,20 @@
+.score-board {
+    margin-top: 2rem;
+  }
+  .home-btn {
+    padding: 0.75rem 2rem;
+    background: white;
+    color: #2575fc;
+    border: none;
+    border-radius: 2rem;
+    font-size: 1rem;
+    font-weight: 600;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+    transition: all 0.3s ease;
+    cursor: pointer;
+  }
+  
+  .home-btn:hover {
+    transform: scale(1.05);
+    background-color: #f0f4ff;
+  }

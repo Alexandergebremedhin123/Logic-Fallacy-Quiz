@@ -1,0 +1,26 @@
+.level-selector {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    justify-content: center;
+    margin-top: 2rem;
+  }
+  
+  .level-btn {
+    padding: 0.6rem 1.5rem;
+    background-color: white;
+    color: #2575fc;
+    border: none;
+    border-radius: 1.5rem;
+    font-weight: 600;
+    font-size: 1rem;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+    cursor: pointer;
+    transition: transform 0.2s ease, background-color 0.2s ease;
+  }
+  
+  .level-btn:hover {
+    transform: scale(1.05);
+    background-color: #e6ecff;
+  }
+  

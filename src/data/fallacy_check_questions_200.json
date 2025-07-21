@@ -1,0 +1,2002 @@
+[
+  {
+    "id": 1,
+    "question": "Surveys show that students feel more focused with shorter class sessions.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "No, it's not a fallacy",
+    "explanation": "The question is based on valid reasoning or evidence."
+  },
+  {
+    "id": 2,
+    "question": "She got a promotion after she bought that lucky charm. It must have worked!",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "Yes, it's a fallacy",
+    "explanation": "This is a Post Hoc fallacy."
+  },
+  {
+    "id": 3,
+    "question": "The teacher reduced homework after students explained their stress levels.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "No, it's not a fallacy",
+    "explanation": "The question is based on valid reasoning or evidence."
+  },
+  {
+    "id": 4,
+    "question": "If we don't increase military spending, we will be invaded tomorrow.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "Yes, it's a fallacy",
+    "explanation": "This is a Appeal to Fear fallacy."
+  },
+  {
+    "id": 5,
+    "question": "Scientific consensus supports that vaccines reduce disease spread.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "No, it's not a fallacy",
+    "explanation": "The question is based on valid reasoning or evidence."
+  },
+  {
+    "id": 6,
+    "question": "According to the data, crime rates dropped after new policy reforms.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "No, it's not a fallacy",
+    "explanation": "The question is based on valid reasoning or evidence."
+  },
+  {
+    "id": 7,
+    "question": "If we don't increase military spending, we will be invaded tomorrow.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "Yes, it's a fallacy",
+    "explanation": "This is a Appeal to Fear fallacy."
+  },
+  {
+    "id": 8,
+    "question": "Scientific consensus supports that vaccines reduce disease spread.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "No, it's not a fallacy",
+    "explanation": "The question is based on valid reasoning or evidence."
+  },
+  {
+    "id": 9,
+    "question": "Everyone I know is buying this, so it must be the best option.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "Yes, it's a fallacy",
+    "explanation": "This is a Bandwagon fallacy."
+  },
+  {
+    "id": 10,
+    "question": "We should trust the mayor because she says she's trustworthy.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "Yes, it's a fallacy",
+    "explanation": "This is a Circular Reasoning fallacy."
+  },
+  {
+    "id": 11,
+    "question": "She got a promotion after she bought that lucky charm. It must have worked!",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "Yes, it's a fallacy",
+    "explanation": "This is a Post Hoc fallacy."
+  },
+  {
+    "id": 12,
+    "question": "Surveys show that students feel more focused with shorter class sessions.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "No, it's not a fallacy",
+    "explanation": "The question is based on valid reasoning or evidence."
+  },
+  {
+    "id": 13,
+    "question": "We should trust the mayor because she says she's trustworthy.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "Yes, it's a fallacy",
+    "explanation": "This is a Circular Reasoning fallacy."
+  },
+  {
+    "id": 14,
+    "question": "Everyone I know is buying this, so it must be the best option.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "Yes, it's a fallacy",
+    "explanation": "This is a Bandwagon fallacy."
+  },
+  {
+    "id": 15,
+    "question": "The teacher reduced homework after students explained their stress levels.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "No, it's not a fallacy",
+    "explanation": "The question is based on valid reasoning or evidence."
+  },
+  {
+    "id": 16,
+    "question": "Studies from multiple universities show that meditation helps reduce stress.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "No, it's not a fallacy",
+    "explanation": "The question is based on valid reasoning or evidence."
+  },
+  {
+    "id": 17,
+    "question": "The new traffic system reduced commute times by 15%, according to a city report.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "No, it's not a fallacy",
+    "explanation": "The question is based on valid reasoning or evidence."
+  },
+  {
+    "id": 18,
+    "question": "Experts in climate science agree on the impact of greenhouse gases.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "No, it's not a fallacy",
+    "explanation": "The question is based on valid reasoning or evidence."
+  },
+  {
+    "id": 19,
+    "question": "Studies from multiple universities show that meditation helps reduce stress.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "No, it's not a fallacy",
+    "explanation": "The question is based on valid reasoning or evidence."
+  },
+  {
+    "id": 20,
+    "question": "Her argument is supported by several peer-reviewed studies.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "No, it's not a fallacy",
+    "explanation": "The question is based on valid reasoning or evidence."
+  },
+  {
+    "id": 21,
+    "question": "Her argument is supported by several peer-reviewed studies.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "No, it's not a fallacy",
+    "explanation": "The question is based on valid reasoning or evidence."
+  },
+  {
+    "id": 22,
+    "question": "Surveys show that students feel more focused with shorter class sessions.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "No, it's not a fallacy",
+    "explanation": "The question is based on valid reasoning or evidence."
+  },
+  {
+    "id": 23,
+    "question": "The teacher reduced homework after students explained their stress levels.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "No, it's not a fallacy",
+    "explanation": "The question is based on valid reasoning or evidence."
+  },
+  {
+    "id": 24,
+    "question": "Studies from multiple universities show that meditation helps reduce stress.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "No, it's not a fallacy",
+    "explanation": "The question is based on valid reasoning or evidence."
+  },
+  {
+    "id": 25,
+    "question": "Experts in climate science agree on the impact of greenhouse gases.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "No, it's not a fallacy",
+    "explanation": "The question is based on valid reasoning or evidence."
+  },
+  {
+    "id": 26,
+    "question": "Everyone I know is buying this, so it must be the best option.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "Yes, it's a fallacy",
+    "explanation": "This is a Bandwagon fallacy."
+  },
+  {
+    "id": 27,
+    "question": "Everyone I know is buying this, so it must be the best option.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "Yes, it's a fallacy",
+    "explanation": "This is a Bandwagon fallacy."
+  },
+  {
+    "id": 28,
+    "question": "Experts in climate science agree on the impact of greenhouse gases.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "No, it's not a fallacy",
+    "explanation": "The question is based on valid reasoning or evidence."
+  },
+  {
+    "id": 29,
+    "question": "Her argument is supported by several peer-reviewed studies.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "No, it's not a fallacy",
+    "explanation": "The question is based on valid reasoning or evidence."
+  },
+  {
+    "id": 30,
+    "question": "Surveys show that students feel more focused with shorter class sessions.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "No, it's not a fallacy",
+    "explanation": "The question is based on valid reasoning or evidence."
+  },
+  {
+    "id": 31,
+    "question": "If we let kids skip one homework, they will start skipping school entirely.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "Yes, it's a fallacy",
+    "explanation": "This is a Slippery Slope fallacy."
+  },
+  {
+    "id": 32,
+    "question": "According to the data, crime rates dropped after new policy reforms.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "No, it's not a fallacy",
+    "explanation": "The question is based on valid reasoning or evidence."
+  },
+  {
+    "id": 33,
+    "question": "Studies from multiple universities show that meditation helps reduce stress.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "No, it's not a fallacy",
+    "explanation": "The question is based on valid reasoning or evidence."
+  },
+  {
+    "id": 34,
+    "question": "You can't trust Carla's argument on nutrition; she eats pizza daily.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "Yes, it's a fallacy",
+    "explanation": "This is a Ad Hominem fallacy."
+  },
+  {
+    "id": 35,
+    "question": "If we let kids skip one homework, they will start skipping school entirely.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "Yes, it's a fallacy",
+    "explanation": "This is a Slippery Slope fallacy."
+  },
+  {
+    "id": 36,
+    "question": "Scientific consensus supports that vaccines reduce disease spread.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "No, it's not a fallacy",
+    "explanation": "The question is based on valid reasoning or evidence."
+  },
+  {
+    "id": 37,
+    "question": "Surveys show that students feel more focused with shorter class sessions.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "No, it's not a fallacy",
+    "explanation": "The question is based on valid reasoning or evidence."
+  },
+  {
+    "id": 38,
+    "question": "If we don't increase military spending, we will be invaded tomorrow.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy" 
+    ],
+    "answer": "Yes, it's a fallacy",
+    "explanation": "This is a Appeal to Fear fallacy."
+  },
+  {
+    "id": 39,
+    "question": "If we let kids skip one homework, they will start skipping school entirely.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "Yes, it's a fallacy",
+    "explanation": "This is a Slippery Slope fallacy."
+  },
+  {
+    "id": 40,
+    "question": "You can't trust Carla's argument on nutrition; she eats pizza daily.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "Yes, it's a fallacy",
+    "explanation": "This is a Ad Hominem fallacy."
+  },
+  {
+    "id": 41,
+    "question": "Why talk about tax reform when our sports team is doing great?",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "Yes, it's a fallacy",
+    "explanation": "This is a Red Herring fallacy."
+  },
+  {
+    "id": 42,
+    "question": "Studies from multiple universities show that meditation helps reduce stress.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "No, it's not a fallacy",
+    "explanation": "The question is based on valid reasoning or evidence."
+  },
+  {
+    "id": 43,
+    "question": "She got a promotion after she bought that lucky charm. It must have worked!",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "Yes, it's a fallacy",
+    "explanation": "This is a Post Hoc fallacy."
+  },
+  {
+    "id": 44,
+    "question": "Everyone I know is buying this, so it must be the best option.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "Yes, it's a fallacy",
+    "explanation": "This is a Bandwagon fallacy."
+  },
+  {
+    "id": 45,
+    "question": "Surveys show that students feel more focused with shorter class sessions.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "No, it's not a fallacy",
+    "explanation": "The question is based on valid reasoning or evidence."
+  },
+  {
+    "id": 46,
+    "question": "You can't trust Carla's argument on nutrition; she eats pizza daily.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "Yes, it's a fallacy",
+    "explanation": "This is a Ad Hominem fallacy."
+  },
+  {
+    "id": 47,
+    "question": "She got a promotion after she bought that lucky charm. It must have worked!",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "Yes, it's a fallacy",
+    "explanation": "This is a Post Hoc fallacy."
+  },
+  {
+    "id": 48,
+    "question": "She got a promotion after she bought that lucky charm. It must have worked!",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "Yes, it's a fallacy",
+    "explanation": "This is a Post Hoc fallacy."
+  },
+  {
+    "id": 49,
+    "question": "Studies from multiple universities show that meditation helps reduce stress.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "No, it's not a fallacy",
+    "explanation": "The question is based on valid reasoning or evidence."
+  },
+  {
+    "id": 50,
+    "question": "The teacher reduced homework after students explained their stress levels.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "No, it's not a fallacy",
+    "explanation": "The question is based on valid reasoning or evidence."
+  },
+  {
+    "id": 51,
+    "question": "According to the data, crime rates dropped after new policy reforms.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "No, it's not a fallacy",
+    "explanation": "The question is based on valid reasoning or evidence."
+  },
+  {
+    "id": 52,
+    "question": "If we let kids skip one homework, they will start skipping school entirely.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "Yes, it's a fallacy",
+    "explanation": "This is a Slippery Slope fallacy."
+  },
+  {
+    "id": 53,
+    "question": "Why talk about tax reform when our sports team is doing great?",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "Yes, it's a fallacy",
+    "explanation": "This is a Red Herring fallacy."
+  },
+  {
+    "id": 54,
+    "question": "Surveys show that students feel more focused with shorter class sessions.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "No, it's not a fallacy",
+    "explanation": "The question is based on valid reasoning or evidence."
+  },
+  {
+    "id": 55,
+    "question": "Experts in climate science agree on the impact of greenhouse gases.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "No, it's not a fallacy",
+    "explanation": "The question is based on valid reasoning or evidence."
+  },
+  {
+    "id": 56,
+    "question": "Experts in climate science agree on the impact of greenhouse gases.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "No, it's not a fallacy",
+    "explanation": "The question is based on valid reasoning or evidence."
+  },
+  {
+    "id": 57,
+    "question": "Experts in climate science agree on the impact of greenhouse gases.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "No, it's not a fallacy",
+    "explanation": "The question is based on valid reasoning or evidence."
+  },
+  {
+    "id": 58,
+    "question": "Scientific consensus supports that vaccines reduce disease spread.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "No, it's not a fallacy",
+    "explanation": "The question is based on valid reasoning or evidence."
+  },
+  {
+    "id": 59,
+    "question": "Scientific consensus supports that vaccines reduce disease spread.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "No, it's not a fallacy",
+    "explanation": "The question is based on valid reasoning or evidence."
+  },
+  {
+    "id": 60,
+    "question": "Surveys show that students feel more focused with shorter class sessions.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "No, it's not a fallacy",
+    "explanation": "The question is based on valid reasoning or evidence."
+  },
+  {
+    "id": 61,
+    "question": "You can't trust Carla's argument on nutrition; she eats pizza daily.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "Yes, it's a fallacy",
+    "explanation": "This is a Ad Hominem fallacy."
+  },
+  {
+    "id": 62,
+    "question": "She got a promotion after she bought that lucky charm. It must have worked!",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "Yes, it's a fallacy",
+    "explanation": "This is a Post Hoc fallacy."
+  },
+  {
+    "id": 63,
+    "question": "Her argument is supported by several peer-reviewed studies.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "No, it's not a fallacy",
+    "explanation": "The question is based on valid reasoning or evidence."
+  },
+  {
+    "id": 64,
+    "question": "Scientific consensus supports that vaccines reduce disease spread.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "No, it's not a fallacy",
+    "explanation": "The question is based on valid reasoning or evidence."
+  },
+  {
+    "id": 65,
+    "question": "The teacher reduced homework after students explained their stress levels.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "No, it's not a fallacy",
+    "explanation": "The question is based on valid reasoning or evidence."
+  },
+  {
+    "id": 66,
+    "question": "Studies from multiple universities show that meditation helps reduce stress.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "No, it's not a fallacy",
+    "explanation": "The question is based on valid reasoning or evidence."
+  },
+  {
+    "id": 67,
+    "question": "If we don't increase military spending, we will be invaded tomorrow.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "Yes, it's a fallacy",
+    "explanation": "This is a Appeal to Fear fallacy."
+  },
+  {
+    "id": 68,
+    "question": "Why talk about tax reform when our sports team is doing great?",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "Yes, it's a fallacy",
+    "explanation": "This is a Red Herring fallacy."
+  },
+  {
+    "id": 69,
+    "question": "She got a promotion after she bought that lucky charm. It must have worked!",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "Yes, it's a fallacy",
+    "explanation": "This is a Post Hoc fallacy."
+  },
+  {
+    "id": 70,
+    "question": "Surveys show that students feel more focused with shorter class sessions.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "No, it's not a fallacy",
+    "explanation": "The question is based on valid reasoning or evidence."
+  },
+  {
+    "id": 71,
+    "question": "If we don't increase military spending, we will be invaded tomorrow.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "Yes, it's a fallacy",
+    "explanation": "This is a Appeal to Fear fallacy."
+  },
+  {
+    "id": 72,
+    "question": "The teacher reduced homework after students explained their stress levels.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "No, it's not a fallacy",
+    "explanation": "The question is based on valid reasoning or evidence."
+  },
+  {
+    "id": 73,
+    "question": "Studies from multiple universities show that meditation helps reduce stress.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "No, it's not a fallacy",
+    "explanation": "The question is based on valid reasoning or evidence."
+  },
+  {
+    "id": 74,
+    "question": "She got a promotion after she bought that lucky charm. It must have worked!",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "Yes, it's a fallacy",
+    "explanation": "This is a Post Hoc fallacy."
+  },
+  {
+    "id": 75,
+    "question": "We should trust the mayor because she says she's trustworthy.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "Yes, it's a fallacy",
+    "explanation": "This is a Circular Reasoning fallacy."
+  },
+  {
+    "id": 76,
+    "question": "Studies from multiple universities show that meditation helps reduce stress.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "No, it's not a fallacy",
+    "explanation": "The question is based on valid reasoning or evidence."
+  },
+  {
+    "id": 77,
+    "question": "According to the data, crime rates dropped after new policy reforms.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "No, it's not a fallacy",
+    "explanation": "The question is based on valid reasoning or evidence."
+  },
+  {
+    "id": 78,
+    "question": "You can't trust Carla's argument on nutrition; she eats pizza daily.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "Yes, it's a fallacy",
+    "explanation": "This is a Ad Hominem fallacy."
+  },
+  {
+    "id": 79,
+    "question": "You can't trust Carla's argument on nutrition; she eats pizza daily.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "Yes, it's a fallacy",
+    "explanation": "This is a Ad Hominem fallacy."
+  },
+  {
+    "id": 80,
+    "question": "Scientific consensus supports that vaccines reduce disease spread.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "No, it's not a fallacy",
+    "explanation": "The question is based on valid reasoning or evidence."
+  },
+  {
+    "id": 81,
+    "question": "She got a promotion after she bought that lucky charm. It must have worked!",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "Yes, it's a fallacy",
+    "explanation": "This is a Post Hoc fallacy."
+  },
+  {
+    "id": 82,
+    "question": "If we don't increase military spending, we will be invaded tomorrow.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "Yes, it's a fallacy",
+    "explanation": "This is a Appeal to Fear fallacy."
+  },
+  {
+    "id": 83,
+    "question": "The teacher reduced homework after students explained their stress levels.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "No, it's not a fallacy",
+    "explanation": "The question is based on valid reasoning or evidence."
+  },
+  {
+    "id": 84,
+    "question": "Scientific consensus supports that vaccines reduce disease spread.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "No, it's not a fallacy",
+    "explanation": "The question is based on valid reasoning or evidence."
+  },
+  {
+    "id": 85,
+    "question": "If we let kids skip one homework, they will start skipping school entirely.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "Yes, it's a fallacy",
+    "explanation": "This is a Slippery Slope fallacy."
+  },
+  {
+    "id": 86,
+    "question": "Studies from multiple universities show that meditation helps reduce stress.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "No, it's not a fallacy",
+    "explanation": "The question is based on valid reasoning or evidence."
+  },
+  {
+    "id": 87,
+    "question": "You can't trust Carla's argument on nutrition; she eats pizza daily.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "Yes, it's a fallacy",
+    "explanation": "This is a Ad Hominem fallacy."
+  },
+  {
+    "id": 88,
+    "question": "We should trust the mayor because she says she's trustworthy.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "Yes, it's a fallacy",
+    "explanation": "This is a Circular Reasoning fallacy."
+  },
+  {
+    "id": 89,
+    "question": "Why talk about tax reform when our sports team is doing great?",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "Yes, it's a fallacy",
+    "explanation": "This is a Red Herring fallacy."
+  },
+  {
+    "id": 90,
+    "question": "Studies from multiple universities show that meditation helps reduce stress.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "No, it's not a fallacy",
+    "explanation": "The question is based on valid reasoning or evidence."
+  },
+  {
+    "id": 91,
+    "question": "You can't trust Carla's argument on nutrition; she eats pizza daily.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "Yes, it's a fallacy",
+    "explanation": "This is a Ad Hominem fallacy."
+  },
+  {
+    "id": 92,
+    "question": "Surveys show that students feel more focused with shorter class sessions.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "No, it's not a fallacy",
+    "explanation": "The question is based on valid reasoning or evidence."
+  },
+  {
+    "id": 93,
+    "question": "The new traffic system reduced commute times by 15%, according to a city report.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "No, it's not a fallacy",
+    "explanation": "The question is based on valid reasoning or evidence."
+  },
+  {
+    "id": 94,
+    "question": "Experts in climate science agree on the impact of greenhouse gases.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "No, it's not a fallacy",
+    "explanation": "The question is based on valid reasoning or evidence."
+  },
+  {
+    "id": 95,
+    "question": "The new traffic system reduced commute times by 15%, according to a city report.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "No, it's not a fallacy",
+    "explanation": "The question is based on valid reasoning or evidence."
+  },
+  {
+    "id": 96,
+    "question": "Studies from multiple universities show that meditation helps reduce stress.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "No, it's not a fallacy",
+    "explanation": "The question is based on valid reasoning or evidence."
+  },
+  {
+    "id": 97,
+    "question": "If we let kids skip one homework, they will start skipping school entirely.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "Yes, it's a fallacy",
+    "explanation": "This is a Slippery Slope fallacy."
+  },
+  {
+    "id": 98,
+    "question": "Studies from multiple universities show that meditation helps reduce stress.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "No, it's not a fallacy",
+    "explanation": "The question is based on valid reasoning or evidence."
+  },
+  {
+    "id": 99,
+    "question": "Studies from multiple universities show that meditation helps reduce stress.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "No, it's not a fallacy",
+    "explanation": "The question is based on valid reasoning or evidence."
+  },
+  {
+    "id": 100,
+    "question": "We should trust the mayor because she says she's trustworthy.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "Yes, it's a fallacy",
+    "explanation": "This is a Circular Reasoning fallacy."
+  },
+  {
+    "id": 101,
+    "question": "You can't trust Carla's argument on nutrition; she eats pizza daily.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "Yes, it's a fallacy",
+    "explanation": "This is a Ad Hominem fallacy."
+  },
+  {
+    "id": 102,
+    "question": "Everyone I know is buying this, so it must be the best option.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "Yes, it's a fallacy",
+    "explanation": "This is a Bandwagon fallacy."
+  },
+  {
+    "id": 103,
+    "question": "We should trust the mayor because she says she's trustworthy.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "Yes, it's a fallacy",
+    "explanation": "This is a Circular Reasoning fallacy."
+  },
+  {
+    "id": 104,
+    "question": "Everyone I know is buying this, so it must be the best option.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "Yes, it's a fallacy",
+    "explanation": "This is a Bandwagon fallacy."
+  },
+  {
+    "id": 105,
+    "question": "She got a promotion after she bought that lucky charm. It must have worked!",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "Yes, it's a fallacy",
+    "explanation": "This is a Post Hoc fallacy."
+  },
+  {
+    "id": 106,
+    "question": "According to the data, crime rates dropped after new policy reforms.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "No, it's not a fallacy",
+    "explanation": "The question is based on valid reasoning or evidence."
+  },
+  {
+    "id": 107,
+    "question": "If we don't increase military spending, we will be invaded tomorrow.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "Yes, it's a fallacy",
+    "explanation": "This is a Appeal to Fear fallacy."
+  },
+  {
+    "id": 108,
+    "question": "If we don't increase military spending, we will be invaded tomorrow.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "Yes, it's a fallacy",
+    "explanation": "This is a Appeal to Fear fallacy."
+  },
+  {
+    "id": 109,
+    "question": "You can't trust Carla's argument on nutrition; she eats pizza daily.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "Yes, it's a fallacy",
+    "explanation": "This is a Ad Hominem fallacy."
+  },
+  {
+    "id": 110,
+    "question": "If we let kids skip one homework, they will start skipping school entirely.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "Yes, it's a fallacy",
+    "explanation": "This is a Slippery Slope fallacy."
+  },
+  {
+    "id": 111,
+    "question": "Studies from multiple universities show that meditation helps reduce stress.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "No, it's not a fallacy",
+    "explanation": "The question is based on valid reasoning or evidence."
+  },
+  {
+    "id": 112,
+    "question": "The teacher reduced homework after students explained their stress levels.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "No, it's not a fallacy",
+    "explanation": "The question is based on valid reasoning or evidence."
+  },
+  {
+    "id": 113,
+    "question": "Surveys show that students feel more focused with shorter class sessions.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "No, it's not a fallacy",
+    "explanation": "The question is based on valid reasoning or evidence."
+  },
+  {
+    "id": 114,
+    "question": "You can't trust Carla's argument on nutrition; she eats pizza daily.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "Yes, it's a fallacy",
+    "explanation": "This is a Ad Hominem fallacy."
+  },
+  {
+    "id": 115,
+    "question": "She got a promotion after she bought that lucky charm. It must have worked!",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "Yes, it's a fallacy",
+    "explanation": "This is a Post Hoc fallacy."
+  },
+  {
+    "id": 116,
+    "question": "She got a promotion after she bought that lucky charm. It must have worked!",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "Yes, it's a fallacy",
+    "explanation": "This is a Post Hoc fallacy."
+  },
+  {
+    "id": 117,
+    "question": "According to the data, crime rates dropped after new policy reforms.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "No, it's not a fallacy",
+    "explanation": "The question is based on valid reasoning or evidence."
+  },
+  {
+    "id": 118,
+    "question": "We should trust the mayor because she says she's trustworthy.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "Yes, it's a fallacy",
+    "explanation": "This is a Circular Reasoning fallacy."
+  },
+  {
+    "id": 119,
+    "question": "The teacher reduced homework after students explained their stress levels.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "No, it's not a fallacy",
+    "explanation": "The question is based on valid reasoning or evidence."
+  },
+  {
+    "id": 120,
+    "question": "We should trust the mayor because she says she's trustworthy.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "Yes, it's a fallacy",
+    "explanation": "This is a Circular Reasoning fallacy."
+  },
+  {
+    "id": 121,
+    "question": "You can't trust Carla's argument on nutrition; she eats pizza daily.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "Yes, it's a fallacy",
+    "explanation": "This is a Ad Hominem fallacy."
+  },
+  {
+    "id": 122,
+    "question": "According to the data, crime rates dropped after new policy reforms.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "No, it's not a fallacy",
+    "explanation": "The question is based on valid reasoning or evidence."
+  },
+  {
+    "id": 123,
+    "question": "Experts in climate science agree on the impact of greenhouse gases.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "No, it's not a fallacy",
+    "explanation": "The question is based on valid reasoning or evidence."
+  },
+  {
+    "id": 124,
+    "question": "Studies from multiple universities show that meditation helps reduce stress.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "No, it's not a fallacy",
+    "explanation": "The question is based on valid reasoning or evidence."
+  },
+  {
+    "id": 125,
+    "question": "Scientific consensus supports that vaccines reduce disease spread.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "No, it's not a fallacy",
+    "explanation": "The question is based on valid reasoning or evidence."
+  },
+  {
+    "id": 126,
+    "question": "If we don't increase military spending, we will be invaded tomorrow.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "Yes, it's a fallacy",
+    "explanation": "This is a Appeal to Fear fallacy."
+  },
+  {
+    "id": 127,
+    "question": "The new traffic system reduced commute times by 15%, according to a city report.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "No, it's not a fallacy",
+    "explanation": "The question is based on valid reasoning or evidence."
+  },
+  {
+    "id": 128,
+    "question": "The teacher reduced homework after students explained their stress levels.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "No, it's not a fallacy",
+    "explanation": "The question is based on valid reasoning or evidence."
+  },
+  {
+    "id": 129,
+    "question": "The teacher reduced homework after students explained their stress levels.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "No, it's not a fallacy",
+    "explanation": "The question is based on valid reasoning or evidence."
+  },
+  {
+    "id": 130,
+    "question": "If we don't increase military spending, we will be invaded tomorrow.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "Yes, it's a fallacy",
+    "explanation": "This is a Appeal to Fear fallacy."
+  },
+  {
+    "id": 131,
+    "question": "Studies from multiple universities show that meditation helps reduce stress.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "No, it's not a fallacy",
+    "explanation": "The question is based on valid reasoning or evidence."
+  },
+  {
+    "id": 132,
+    "question": "Why talk about tax reform when our sports team is doing great?",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "Yes, it's a fallacy",
+    "explanation": "This is a Red Herring fallacy."
+  },
+  {
+    "id": 133,
+    "question": "She got a promotion after she bought that lucky charm. It must have worked!",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "Yes, it's a fallacy",
+    "explanation": "This is a Post Hoc fallacy."
+  },
+  {
+    "id": 134,
+    "question": "Her argument is supported by several peer-reviewed studies.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "No, it's not a fallacy",
+    "explanation": "The question is based on valid reasoning or evidence."
+  },
+  {
+    "id": 135,
+    "question": "If we don't increase military spending, we will be invaded tomorrow.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "Yes, it's a fallacy",
+    "explanation": "This is a Appeal to Fear fallacy."
+  },
+  {
+    "id": 136,
+    "question": "According to the data, crime rates dropped after new policy reforms.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "No, it's not a fallacy",
+    "explanation": "The question is based on valid reasoning or evidence."
+  },
+  {
+    "id": 137,
+    "question": "Surveys show that students feel more focused with shorter class sessions.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "No, it's not a fallacy",
+    "explanation": "The question is based on valid reasoning or evidence."
+  },
+  {
+    "id": 138,
+    "question": "She got a promotion after she bought that lucky charm. It must have worked!",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "Yes, it's a fallacy",
+    "explanation": "This is a Post Hoc fallacy."
+  },
+  {
+    "id": 139,
+    "question": "If we don't increase military spending, we will be invaded tomorrow.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "Yes, it's a fallacy",
+    "explanation": "This is a Appeal to Fear fallacy."
+  },
+  {
+    "id": 140,
+    "question": "Studies from multiple universities show that meditation helps reduce stress.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "No, it's not a fallacy",
+    "explanation": "The question is based on valid reasoning or evidence."
+  },
+  {
+    "id": 141,
+    "question": "Surveys show that students feel more focused with shorter class sessions.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "No, it's not a fallacy",
+    "explanation": "The question is based on valid reasoning or evidence."
+  },
+  {
+    "id": 142,
+    "question": "The teacher reduced homework after students explained their stress levels.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "No, it's not a fallacy",
+    "explanation": "The question is based on valid reasoning or evidence."
+  },
+  {
+    "id": 143,
+    "question": "If we let kids skip one homework, they will start skipping school entirely.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "Yes, it's a fallacy",
+    "explanation": "This is a Slippery Slope fallacy."
+  },
+  {
+    "id": 144,
+    "question": "She got a promotion after she bought that lucky charm. It must have worked!",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "Yes, it's a fallacy",
+    "explanation": "This is a Post Hoc fallacy."
+  },
+  {
+    "id": 145,
+    "question": "Experts in climate science agree on the impact of greenhouse gases.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "No, it's not a fallacy",
+    "explanation": "The question is based on valid reasoning or evidence."
+  },
+  {
+    "id": 146,
+    "question": "She got a promotion after she bought that lucky charm. It must have worked!",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "Yes, it's a fallacy",
+    "explanation": "This is a Post Hoc fallacy."
+  },
+  {
+    "id": 147,
+    "question": "You can't trust Carla's argument on nutrition; she eats pizza daily.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "Yes, it's a fallacy",
+    "explanation": "This is a Ad Hominem fallacy."
+  },
+  {
+    "id": 148,
+    "question": "Studies from multiple universities show that meditation helps reduce stress.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "No, it's not a fallacy",
+    "explanation": "The question is based on valid reasoning or evidence."
+  },
+  {
+    "id": 149,
+    "question": "She got a promotion after she bought that lucky charm. It must have worked!",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "Yes, it's a fallacy",
+    "explanation": "This is a Post Hoc fallacy."
+  },
+  {
+    "id": 150,
+    "question": "She got a promotion after she bought that lucky charm. It must have worked!",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "Yes, it's a fallacy",
+    "explanation": "This is a Post Hoc fallacy."
+  },
+  {
+    "id": 151,
+    "question": "Everyone I know is buying this, so it must be the best option.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "Yes, it's a fallacy",
+    "explanation": "This is a Bandwagon fallacy."
+  },
+  {
+    "id": 152,
+    "question": "If we don't increase military spending, we will be invaded tomorrow.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "Yes, it's a fallacy",
+    "explanation": "This is a Appeal to Fear fallacy."
+  },
+  {
+    "id": 153,
+    "question": "Surveys show that students feel more focused with shorter class sessions.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "No, it's not a fallacy",
+    "explanation": "The question is based on valid reasoning or evidence."
+  },
+  {
+    "id": 154,
+    "question": "Everyone I know is buying this, so it must be the best option.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "Yes, it's a fallacy",
+    "explanation": "This is a Bandwagon fallacy."
+  },
+  {
+    "id": 155,
+    "question": "Studies from multiple universities show that meditation helps reduce stress.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "No, it's not a fallacy",
+    "explanation": "The question is based on valid reasoning or evidence."
+  },
+  {
+    "id": 156,
+    "question": "Studies from multiple universities show that meditation helps reduce stress.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "No, it's not a fallacy",
+    "explanation": "The question is based on valid reasoning or evidence."
+  },
+  {
+    "id": 157,
+    "question": "Studies from multiple universities show that meditation helps reduce stress.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "No, it's not a fallacy",
+    "explanation": "The question is based on valid reasoning or evidence."
+  },
+  {
+    "id": 158,
+    "question": "The teacher reduced homework after students explained their stress levels.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "No, it's not a fallacy",
+    "explanation": "The question is based on valid reasoning or evidence."
+  },
+  {
+    "id": 159,
+    "question": "If we don't increase military spending, we will be invaded tomorrow.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "Yes, it's a fallacy",
+    "explanation": "This is a Appeal to Fear fallacy."
+  },
+  {
+    "id": 160,
+    "question": "According to the data, crime rates dropped after new policy reforms.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "No, it's not a fallacy",
+    "explanation": "The question is based on valid reasoning or evidence."
+  },
+  {
+    "id": 161,
+    "question": "According to the data, crime rates dropped after new policy reforms.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "No, it's not a fallacy",
+    "explanation": "The question is based on valid reasoning or evidence."
+  },
+  {
+    "id": 162,
+    "question": "Scientific consensus supports that vaccines reduce disease spread.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "No, it's not a fallacy",
+    "explanation": "The question is based on valid reasoning or evidence."
+  },
+  {
+    "id": 163,
+    "question": "If we let kids skip one homework, they will start skipping school entirely.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "Yes, it's a fallacy",
+    "explanation": "This is a Slippery Slope fallacy."
+  },
+  {
+    "id": 164,
+    "question": "According to the data, crime rates dropped after new policy reforms.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "No, it's not a fallacy",
+    "explanation": "The question is based on valid reasoning or evidence."
+  },
+  {
+    "id": 165,
+    "question": "We should trust the mayor because she says she's trustworthy.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "Yes, it's a fallacy",
+    "explanation": "This is a Circular Reasoning fallacy."
+  },
+  {
+    "id": 166,
+    "question": "Her argument is supported by several peer-reviewed studies.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "No, it's not a fallacy",
+    "explanation": "The question is based on valid reasoning or evidence."
+  },
+  {
+    "id": 167,
+    "question": "If we don't increase military spending, we will be invaded tomorrow.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "Yes, it's a fallacy",
+    "explanation": "This is a Appeal to Fear fallacy."
+  },
+  {
+    "id": 168,
+    "question": "The new traffic system reduced commute times by 15%, according to a city report.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "No, it's not a fallacy",
+    "explanation": "The question is based on valid reasoning or evidence."
+  },
+  {
+    "id": 169,
+    "question": "Experts in climate science agree on the impact of greenhouse gases.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "No, it's not a fallacy",
+    "explanation": "The question is based on valid reasoning or evidence."
+  },
+  {
+    "id": 170,
+    "question": "Everyone I know is buying this, so it must be the best option.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "Yes, it's a fallacy",
+    "explanation": "This is a Bandwagon fallacy."
+  },
+  {
+    "id": 171,
+    "question": "Her argument is supported by several peer-reviewed studies.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "No, it's not a fallacy",
+    "explanation": "The question is based on valid reasoning or evidence."
+  },
+  {
+    "id": 172,
+    "question": "If we let kids skip one homework, they will start skipping school entirely.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "Yes, it's a fallacy",
+    "explanation": "This is a Slippery Slope fallacy."
+  },
+  {
+    "id": 173,
+    "question": "Her argument is supported by several peer-reviewed studies.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "No, it's not a fallacy",
+    "explanation": "The question is based on valid reasoning or evidence."
+  },
+  {
+    "id": 174,
+    "question": "Experts in climate science agree on the impact of greenhouse gases.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "No, it's not a fallacy",
+    "explanation": "The question is based on valid reasoning or evidence."
+  },
+  {
+    "id": 175,
+    "question": "She got a promotion after she bought that lucky charm. It must have worked!",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "Yes, it's a fallacy",
+    "explanation": "This is a Post Hoc fallacy."
+  },
+  {
+    "id": 176,
+    "question": "Her argument is supported by several peer-reviewed studies.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "No, it's not a fallacy",
+    "explanation": "The question is based on valid reasoning or evidence."
+  },
+  {
+    "id": 177,
+    "question": "Experts in climate science agree on the impact of greenhouse gases.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "No, it's not a fallacy",
+    "explanation": "The question is based on valid reasoning or evidence."
+  },
+  {
+    "id": 178,
+    "question": "Her argument is supported by several peer-reviewed studies.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "No, it's not a fallacy",
+    "explanation": "The question is based on valid reasoning or evidence."
+  },
+  {
+    "id": 179,
+    "question": "If we don't increase military spending, we will be invaded tomorrow.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "Yes, it's a fallacy",
+    "explanation": "This is a Appeal to Fear fallacy."
+  },
+  {
+    "id": 180,
+    "question": "She got a promotion after she bought that lucky charm. It must have worked!",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "Yes, it's a fallacy",
+    "explanation": "This is a Post Hoc fallacy."
+  },
+  {
+    "id": 181,
+    "question": "The new traffic system reduced commute times by 15%, according to a city report.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "No, it's not a fallacy",
+    "explanation": "The question is based on valid reasoning or evidence."
+  },
+  {
+    "id": 182,
+    "question": "Everyone I know is buying this, so it must be the best option.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "Yes, it's a fallacy",
+    "explanation": "This is a Bandwagon fallacy."
+  },
+  {
+    "id": 183,
+    "question": "The new traffic system reduced commute times by 15%, according to a city report.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "No, it's not a fallacy",
+    "explanation": "The question is based on valid reasoning or evidence."
+  },
+  {
+    "id": 184,
+    "question": "Studies from multiple universities show that meditation helps reduce stress.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "No, it's not a fallacy",
+    "explanation": "The question is based on valid reasoning or evidence."
+  },
+  {
+    "id": 185,
+    "question": "Scientific consensus supports that vaccines reduce disease spread.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "No, it's not a fallacy",
+    "explanation": "The question is based on valid reasoning or evidence."
+  },
+  {
+    "id": 186,
+    "question": "Studies from multiple universities show that meditation helps reduce stress.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "No, it's not a fallacy",
+    "explanation": "The question is based on valid reasoning or evidence."
+  },
+  {
+    "id": 187,
+    "question": "If we let kids skip one homework, they will start skipping school entirely.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "Yes, it's a fallacy",
+    "explanation": "This is a Slippery Slope fallacy."
+  },
+  {
+    "id": 188,
+    "question": "Surveys show that students feel more focused with shorter class sessions.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "No, it's not a fallacy",
+    "explanation": "The question is based on valid reasoning or evidence."
+  },
+  {
+    "id": 189,
+    "question": "Scientific consensus supports that vaccines reduce disease spread.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "No, it's not a fallacy",
+    "explanation": "The question is based on valid reasoning or evidence."
+  },
+  {
+    "id": 190,
+    "question": "The teacher reduced homework after students explained their stress levels.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "No, it's not a fallacy",
+    "explanation": "The question is based on valid reasoning or evidence."
+  },
+  {
+    "id": 191,
+    "question": "The teacher reduced homework after students explained their stress levels.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "No, it's not a fallacy",
+    "explanation": "The question is based on valid reasoning or evidence."
+  },
+  {
+    "id": 192,
+    "question": "The new traffic system reduced commute times by 15%, according to a city report.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "No, it's not a fallacy",
+    "explanation": "The question is based on valid reasoning or evidence."
+  },
+  {
+    "id": 193,
+    "question": "Surveys show that students feel more focused with shorter class sessions.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "No, it's not a fallacy",
+    "explanation": "The question is based on valid reasoning or evidence."
+  },
+  {
+    "id": 194,
+    "question": "The new traffic system reduced commute times by 15%, according to a city report.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "No, it's not a fallacy",
+    "explanation": "The question is based on valid reasoning or evidence."
+  },
+  {
+    "id": 195,
+    "question": "According to the data, crime rates dropped after new policy reforms.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "No, it's not a fallacy",
+    "explanation": "The question is based on valid reasoning or evidence."
+  },
+  {
+    "id": 196,
+    "question": "Studies from multiple universities show that meditation helps reduce stress.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "No, it's not a fallacy",
+    "explanation": "The question is based on valid reasoning or evidence."
+  },
+  {
+    "id": 197,
+    "question": "Scientific consensus supports that vaccines reduce disease spread.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "No, it's not a fallacy",
+    "explanation": "The question is based on valid reasoning or evidence."
+  },
+  {
+    "id": 198,
+    "question": "According to the data, crime rates dropped after new policy reforms.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "No, it's not a fallacy",
+    "explanation": "The question is based on valid reasoning or evidence."
+  },
+  {
+    "id": 199,
+    "question": "We should trust the mayor because she says she's trustworthy.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "Yes, it's a fallacy",
+    "explanation": "This is a Circular Reasoning fallacy."
+  },
+  {
+    "id": 200,
+    "question": "Studies from multiple universities show that meditation helps reduce stress.",
+    "choice": [
+      "Yes, it's a fallacy",
+      "No, it's not a fallacy"
+    ],
+    "answer": "No, it's not a fallacy",
+    "explanation": "The question is based on valid reasoning or evidence."
+  }
+]

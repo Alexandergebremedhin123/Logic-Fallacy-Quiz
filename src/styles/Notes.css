@@ -1,0 +1,74 @@
+.notes-page-wrapper {
+    display: flex;
+    gap: 2rem;
+    align-items: flex-start;
+    justify-content: center;
+    padding: 3rem 2rem;
+    min-height: 100vh;
+    /* background: linear-gradient(to right, #6a11cb, #2575fc); */
+    background: #ffb4aa;
+    color: white;
+  }
+  .notes-content {
+    max-width: 800px;
+    background: rgba(46, 2, 2, 0.05);
+    padding: 2rem;
+    border-radius: 1rem;
+    line-height: 1.8;
+    color: rgb(14, 1, 1);
+  }
+  section {
+    scroll-margin-top: 100px;
+  }
+      
+  
+  .sidebar {
+    position: sticky;
+    top: 2rem;
+    background: rgba(54, 3, 3, 0.08);
+    padding: 1.5rem;
+    border-radius: 1rem;
+    min-width: 220px;
+    max-height: 90vh;
+    overflow-y: auto;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  }
+  
+  .sidebar-title {
+    font-size: 1.2rem;
+    font-weight: bold;
+    margin-bottom: 1rem;
+    color: #0f0101;
+    
+  }
+  .sidebar-title a {
+    text-decoration: none;
+    color: #160202;
+    font-weight: 500;
+    transition: color 0.2s;
+  }
+  .sidebar-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .sidebar-list li {
+    margin-bottom: 0.8rem;
+  }
+  
+  .sidebar-list a {
+    text-decoration: none;
+    color: #180202;
+    font-weight: 500;
+    transition: color 0.2s;
+  }
+  
+  .sidebar-list a:hover {
+    color: #aad4ff;
+  }
+  .home-title {
+    font-size: 3rem;
+    font-weight: 800;
+    margin-bottom: 1rem;
+    text-shadow: 2px 2px #33333344;
+  }
