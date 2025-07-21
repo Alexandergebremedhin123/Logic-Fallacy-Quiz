@@ -1,4 +1,4 @@
-My Name is Alexander Gebremedhin and I am the Author for this react project.
+My Name is Alexander Gebremedhin and I am the Author for this react project.This is the initial phase of the project check it out below!
  Live Demo: (https://logic-fallacy-quiz-wscp.vercel.app/)
 # Getting Started with Create React App
 
