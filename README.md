@@ -1,3 +1,5 @@
+My Name is Alexander Gebremedhin and I am the Author for this react project.
+ Live Demo: (https://logic-fallacy-quiz-wscp.vercel.app/)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
